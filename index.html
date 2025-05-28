@@ -4,44 +4,81 @@
   <meta charset="UTF-8">
   <title>Sophia N. Wilson</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  
   <style>
     body {
       font-family: sans-serif;
       color: #333;
-      margin: 40px auto;
-      max-width: 900px;
-      padding: 0 20px;
+      margin: 0;
+      padding: 0;
     }
 
-    .container {
+    .wrapper {
       display: flex;
-      gap: 40px;
+      align-items: flex-start;
     }
 
     .sidebar {
-      width: 250px;
-      flex-shrink: 0;
+      width: 220px;
+      background-color: #f9f9f9;
+      padding: 20px;
+      border-right: 1px solid #ddd;
+      height: 100vh;
+      position: fixed;
+      top: 0;
+      left: 0;
     }
 
     .sidebar img {
       width: 100%;
       border-radius: 8px;
+      margin-bottom: 15px;
     }
 
-    .sidebar a {
-      display: block;
+    .sidebar h2 {
+      font-size: 20px;
+      margin: 0 0 10px;
+    }
+
+    .contact-list {
+      font-size: 14px;
+    }
+
+    .contact-list p {
+      margin: 8px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    .contact-list i {
+      margin-right: 8px;
+      width: 18px;
+      text-align: center;
+    }
+
+    .contact-list a {
       color: #0066cc;
       text-decoration: none;
-      margin: 8px 0;
     }
 
-    .sidebar a:hover {
+    .main {
+      margin-left: 240px;
+      padding: 30px;
+      max-width: 800px;
+    }
+
+    nav {
+      margin-bottom: 30px;
+    }
+
+    nav a {
+      margin-right: 20px;
+      text-decoration: none;
+      color: #0066cc;
+      font-weight: bold;
+    }
+
+    nav a:hover {
       text-decoration: underline;
-    }
-
-    .content {
-      flex-grow: 1;
     }
 
     h1 {
@@ -51,32 +88,41 @@
 </head>
 <body>
 
-  <div class="container">
+<div class="wrapper">
 
-    <div class="sidebar">
-      <img src="portrait.jpg" alt="Sophia N. Wilson"> 
-      <h2>Sophia Wilson</h2>
-      <p>Physics & ML researcher</p>
+  <div class="sidebar">
+    <img src="portrait.jpg" alt="Sophia N. Wilson">
+    <h2>Sophia N. Wilson</h2>
+    <p style="font-size: 14px;">Physics & ML researcher</p>
+
     <div class="contact-list">
-        <p><i class="fas fa-map-marker-alt"></i> Copenhagen</p>
-        <p><i class="fas fa-envelope"></i> <a href="mailto:sophia.wilson@nbi.ku.dk">Email</a></p>
-        <p><i class="fab fa-github"></i> <a href="https://github.com/sophiawilson18">GitHub</a></p>
-        <p><i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ">Google Scholar</a></p>
-        <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sophiawilson18/">LinkedIn</a></p>
+      <p><i class="fas fa-map-marker-alt"></i> Copenhagen</p>
+      <p><i class="fas fa-envelope"></i><a href="mailto:sophia.wilson@nbi.ku.dk"> sophia.wilson@nbi.ku.dk</a></p>
+      <p><i class="fab fa-github"></i><a href="https://github.com/sophiawilson18"> GitHub</a></p>
+      <p><i class="fas fa-graduation-cap"></i><a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ"> Google Scholar</a></p>
+      <p><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/sophiawilson18/"> LinkedIn</a></p>
     </div>
-
-    <div class="content">
-      <h1>Welcome</h1>
-      <p>I'm a physics student working on physics-informed machine learning with applications in sustainability and climate modeling. My interests include generative modeling, dynamical systems, and scientific computing.</p>
-      
-      <h2>News</h2>
-      <ul>
-        <li>May 2025: Submitted my master's thesis!</li>
-        <li>Feb–Jun 2024: Exchange at UvA, Amsterdam.</li>
-      </ul>
-    </div>
-
   </div>
+
+  <div class="main">
+    <nav>
+      <a href="cv.pdf">CV</a>
+      <a href="publications.html">Publications</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="outreach.html">Outreach</a>
+    </nav>
+
+    <h1>Welcome</h1>
+    <p>I'm a physics student working on physics-informed machine learning with applications in sustainability and climate modeling. My interests include generative modeling, dynamical systems, and scientific computing.</p>
+    
+    <h2>News</h2>
+    <ul>
+      <li>May 2025: Submitted my master's thesis!</li>
+      <li>Feb–Jun 2024: Exchange at UvA, Amsterdam.</li>
+    </ul>
+  </div>
+
+</div>
 
 </body>
 </html>
