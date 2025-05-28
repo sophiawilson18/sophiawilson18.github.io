@@ -12,20 +12,42 @@
       padding: 0;
     }
 
+    header {
+      background-color: #f9f9f9;
+      border-bottom: 1px solid #ddd;
+      padding: 15px 0;
+    }
+
+    nav {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 0 30px;
+    }
+
+    nav a {
+      margin-right: 20px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
     .wrapper {
       display: flex;
-      align-items: flex-start;
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 30px;
     }
 
     .sidebar {
-      width: 220px;
+      width: 240px;
       background-color: #f9f9f9;
       padding: 20px;
       border-right: 1px solid #ddd;
-      height: 100vh;
-      position: fixed;
-      top: 0;
-      left: 0;
+      flex-shrink: 0;
     }
 
     .sidebar img {
@@ -37,6 +59,7 @@
     .sidebar h2 {
       font-size: 20px;
       margin: 0 0 10px;
+      color: #333;
     }
 
     .contact-list {
@@ -53,6 +76,7 @@
       margin-right: 8px;
       width: 18px;
       text-align: center;
+      color: #555;
     }
 
     .contact-list a {
@@ -61,27 +85,9 @@
     }
 
     .main {
-      margin-left: 280px;
-      padding: 30px;
+      flex-grow: 1;
+      padding-left: 50px;
       max-width: 800px;
-    }
-
-    nav {
-        background-color: #f9f9f9;
-        padding: 15px 30px;
-        border-bottom: 1px solid #ddd;
-        margin: -30px -30px 30px -30px; /* full-width nav inside .main */
-    }
-
-    nav a {
-        margin-right: 20px;
-        text-decoration: none;
-        color: #000;
-        font-weight: bold;
-    }
-
-    nav a:hover {
-        text-decoration: underline;
     }
 
     h1 {
@@ -91,44 +97,48 @@
 </head>
 <body>
 
-<div class="wrapper">
-
-  <div class="sidebar">
-    <img src="portrait.jpg" alt="Sophia N. Wilson">
-    <h2>Sophia N. Wilson</h2>
-    <p style="font-size: 14px;">Incoming PhD Student @ Machine Learning Section, University of Copenhagen</p>
-
-    <div class="contact-list">
-      <p><i class="fas fa-map-marker-alt"></i> Copenhagen, Denmark</p>
-      <p><i class="fas fa-envelope"></i><a href="mailto:sophia.wilson@nbi.ku.dk"> sophia.wilson@nbi.ku.dk</a></p>
-      <p><i class="fab fa-github"></i><a href="https://github.com/sophiawilson18"> GitHub</a></p>
-      <p><i class="fas fa-graduation-cap"></i><a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ"> Google Scholar</a></p>
-      <p><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/sophiawilson18/"> LinkedIn</a></p>
-    </div>
-  </div>
-
-  <div class="main">
+  <!-- Full-width top header -->
+  <header>
     <nav>
       <a href="cv.pdf">CV</a>
       <a href="publications.html">PUBLICATIONS</a>
       <a href="teaching.html">TEACHING</a>
       <a href="outreach.html">OUTREACH</a>
     </nav>
+  </header>
 
-    <h1>Bio</h1>
-    <p>Bla bla bla.</p>
-    
-    <h2>News</h2>
-    <ul>
-      <li>May 2025: Submitted my master's thesis!</li>
-      <li>Feb–Jun 2024: Exchange at UvA, Amsterdam.</li>
-      <li>Bla.</li>
-      <li>Bla.</li>
-      <li>Bla.</li>
-    </ul>
+  <!-- Two-column layout -->
+  <div class="wrapper">
+
+    <div class="sidebar">
+      <img src="portrait.jpg" alt="Sophia N. Wilson">
+      <h2>Sophia N. Wilson</h2>
+      <p style="font-size: 14px;">Incoming PhD Student @ Machine Learning Section, University of Copenhagen</p>
+
+      <div class="contact-list">
+        <p><i class="fas fa-map-marker-alt"></i> Copenhagen, Denmark</p>
+        <p><i class="fas fa-envelope"></i><a href="mailto:sophia.wilson@nbi.ku.dk"> sophia.wilson@nbi.ku.dk</a></p>
+        <p><i class="fab fa-github"></i><a href="https://github.com/sophiawilson18"> GitHub</a></p>
+        <p><i class="fas fa-graduation-cap"></i><a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ"> Google Scholar</a></p>
+        <p><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/sophiawilson18/"> LinkedIn</a></p>
+      </div>
+    </div>
+
+    <div class="main">
+      <h1>Bio</h1>
+      <p>Bla bla bla.</p>
+
+      <h2>News</h2>
+      <ul>
+        <li>May 2025: Submitted my master's thesis!</li>
+        <li>Feb–Jun 2024: Exchange at UvA, Amsterdam.</li>
+        <li>Bla.</li>
+        <li>Bla.</li>
+        <li>Bla.</li>
+      </ul>
+    </div>
+
   </div>
-
-</div>
 
 </body>
 </html>
