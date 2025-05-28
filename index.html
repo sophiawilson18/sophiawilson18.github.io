@@ -3,42 +3,80 @@
 <head>
   <meta charset="UTF-8">
   <title>Sophia N. Wilson</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  
   <style>
     body {
-      max-width: 700px;
-      margin: 40px auto;
       font-family: sans-serif;
-      line-height: 1.6;
       color: #333;
+      margin: 40px auto;
+      max-width: 900px;
       padding: 0 20px;
     }
+
+    .container {
+      display: flex;
+      gap: 40px;
+    }
+
+    .sidebar {
+      width: 250px;
+      flex-shrink: 0;
+    }
+
+    .sidebar img {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .sidebar a {
+      display: block;
+      color: #0066cc;
+      text-decoration: none;
+      margin: 8px 0;
+    }
+
+    .sidebar a:hover {
+      text-decoration: underline;
+    }
+
+    .content {
+      flex-grow: 1;
+    }
+
     h1 {
       margin-top: 0;
-    }
-    nav a {
-      margin-right: 15px;
-      text-decoration: none;
-      color: #0066cc;
-    }
-    a:hover {
-      text-decoration: underline;
     }
   </style>
 </head>
 <body>
 
-  <h1>Sophia N. Wilson</h1>
-  <p>Physics student and machine learning researcher. Currently at University of Copenhagen.</p>
+  <div class="container">
 
-  <nav>
-    <a href="cv.pdf">CV</a>
-    <a href="publications.html">Publications</a>
-    <a href="teaching.pdf">Teaching</a>
-    <a href="outreach.pdf">Outreach</a>
-  </nav>
+    <div class="sidebar">
+      <img src="portrait.jpg" alt="Sophia N. Wilson"> 
+      <h2>Sophia Wilson</h2>
+      <p>Physics & ML researcher</p>
+    <div class="contact-list">
+        <p><i class="fas fa-map-marker-alt"></i> Copenhagen</p>
+        <p><i class="fas fa-envelope"></i> <a href="mailto:sophia.wilson@nbi.ku.dk">Email</a></p>
+        <p><i class="fab fa-github"></i> <a href="https://github.com/sophiawilson18">GitHub</a></p>
+        <p><i class="fas fa-graduation-cap"></i> <a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ">Google Scholar</a></p>
+        <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sophiawilson18/">LinkedIn</a></p>
+    </div>
 
-  <h2>About</h2>
-  <p>I'm interested in physics-informed machine learning, sustainability, and scientific modeling. This site shares my work and research updates.</p>
+    <div class="content">
+      <h1>Welcome</h1>
+      <p>I'm a physics student working on physics-informed machine learning with applications in sustainability and climate modeling. My interests include generative modeling, dynamical systems, and scientific computing.</p>
+      
+      <h2>News</h2>
+      <ul>
+        <li>May 2025: Submitted my master's thesis!</li>
+        <li>Feb–Jun 2024: Exchange at UvA, Amsterdam.</li>
+      </ul>
+    </div>
+
+  </div>
 
 </body>
 </html>
