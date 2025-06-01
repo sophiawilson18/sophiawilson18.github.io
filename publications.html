@@ -2,44 +2,211 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Publications – Sophia Wilson</title>
+  <title>Sophia N. Wilson - Publications</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
     body {
-      max-width: 700px;
-      margin: 40px auto;
-      font-family: sans-serif;
-      line-height: 1.6;
+      font-family: 'Inter', sans-serif;
       color: #333;
-      padding: 0 20px;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f5f5;
     }
-    h1 {
-      margin-top: 0;
+
+    header {
+      background-color: #ffffff;
+      border-bottom: 1px solid #e0e0e0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+      position: sticky;
+      top: 0;
+      z-index: 1000;
     }
-    a {
-      color: #0066cc;
+
+    nav {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 15px 30px;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    nav a {
+      margin-right: 20px;
+      text-decoration: none;
+      color: #333;
+      font-weight: 600;
+      border-bottom: 2px solid transparent;
+      transition: border-color 0.2s;
+    }
+
+    nav a:hover {
+      border-color: #f4d35e;
+    }
+
+    .wrapper {
+      display: flex;
+      max-width: 1100px;
+      margin: 30px auto;
+      padding: 0 30px;
+      gap: 40px;
+      flex-wrap: wrap;
+    }
+
+    .sidebar {
+      flex: 0 0 240px;
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      position: sticky;
+      top: 20px;
+      align-self: flex-start;
+    }
+
+    .sidebar img {
+      width: 100%;
+      border-radius: 8px;
+      margin-bottom: 15px;
+    }
+
+    .sidebar h2 {
+      font-size: 20px;
+      margin: 0 0 10px;
+      color: #222;
+    }
+
+    .contact-list {
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .contact-list p {
+      margin: 8px 0;
+      display: flex;
+      align-items: center;
+    }
+
+    .contact-list i {
+      margin-right: 8px;
+      width: 18px;
+      text-align: center;
+      color: #555;
+    }
+
+    .contact-list a {
+      color: #555;
       text-decoration: none;
     }
-    a:hover {
+
+    .contact-list a:hover {
       text-decoration: underline;
+    }
+
+    .main {
+      flex: 1;
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+    }
+
+    h1, h2 {
+      margin-top: 0;
+      color: #111;
+      font-family: 'Inter', sans-serif;
+    }
+
+    h2 {
+      margin-bottom: 15px;
+      font-weight: 600;
+    }
+
+    .main p {
+      margin-bottom: 15px;
+      line-height: 1.7;
+    }
+
+    .main p:last-of-type {
+      margin-bottom: 40px;
+    }
+
+    .csl-bib-body {
+      line-height: 1.6;
+      margin-left: 0;
+    }
+
+    .csl-entry {
+      margin-bottom: 15px;
+    }
+
+    @media (max-width: 768px) {
+      .wrapper {
+        flex-direction: column;
+        padding: 0 15px;
+      }
+
+      nav {
+        justify-content: center;
+      }
+
+      .sidebar, .main {
+        width: 100%;
+      }
+
+      .main {
+        padding: 20px;
+      }
     }
   </style>
 </head>
 <body>
 
-  <h1>Publications</h1>
-  <ul>
-    <li>
-      <strong>Title of Your First Publication</strong><br>
-      Authors. <em>Journal Name</em>, Year. [<a href="link_to_pdf_or_doi">PDF</a>]
-    </li>
-    <li>
-      <strong>Title of Your Second Publication</strong><br>
-      Authors. <em>Journal Name</em>, Year. [<a href="link_to_pdf_or_doi">PDF</a>]
-    </li>
-    <!-- Add more publications as needed -->
-  </ul>
+  <header>
+    <nav>
+      <a href="index.html">HOME</a>
+      <a href="cv.pdf">CV</a>
+      <a href="publications.html">PUBLICATIONS</a>
+      <a href="teaching.html">TEACHING</a>
+      <a href="outreach.html">OUTREACH</a>
+    </nav>
+  </header>
 
-  <p><a href="index.html">Back to home</a></p>
+  <div class="wrapper">
+
+    <div class="sidebar">
+      <img src="portrait.jpg" alt="Sophia N. Wilson">
+      <h2>Sophia N. Wilson</h2>
+      <p style="font-size: 14px;">Incoming PhD Student @ Machine Learning Section, University of Copenhagen</p>
+
+      <div class="contact-list">
+        <p><i class="fas fa-map-marker-alt"></i> Copenhagen, Denmark</p>
+        <p><i class="fas fa-envelope"></i><a href="mailto:sophia.wilson@nbi.ku.dk"> sophia.wilson@nbi.ku.dk</a></p>
+        <p><i class="fab fa-github"></i><a href="https://github.com/sophiawilson18"> GitHub</a></p>
+        <p><i class="fas fa-graduation-cap"></i><a href="https://scholar.google.com/citations?user=HPp3xmYAAAAJ"> Google Scholar</a></p>
+        <p><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/sophiawilson18/"> LinkedIn</a></p>
+      </div>
+    </div>
+
+    <div class="main">
+      <h2>Publications</h2>
+      <div class="csl-bib-body">
+        <div class="csl-entry">Wilson, Sophia N., Kasper E. Heintz, Páll Jakobsson, Suzanne C. Madden, Darach Watson, Georgios Magdis, Francesco Valentino, Thomas R. Greve, and David Vizgan. ‘A High-Redshift Calibration of the [OI]-to-H I Conversion Factor in Star-Forming Galaxies’. <i>Astronomy & Astrophysics</i> 685 (2024): A30.</div>
+
+        <div class="csl-entry">Heintz, K. E., A. De Cia, C. C. Thöne, J.-K. Krogager, R. M. Yates, S. Vejlgaard, C. Konstantopoulou, J. P. U. Fynbo, D. Watson, and D. Narayanan. ‘The Cosmic Buildup of Dust and Metals-Accurate Abundances from GRB-Selected Star-Forming Galaxies at 1.7&lt; Z&lt; 6.3’. <i>Astronomy & Astrophysics</i> 679 (2023): A91.</div>
+
+        <div class="csl-entry">Heintz, K. E., C. Giménez-Arteaga, S. Fujimoto, G. Brammer, D. Espada, S. Gillman, J. González-López, T. R. Greve, Y. Harikane, and B. Hatsukade. ‘The Gas and Stellar Content of a Metal-Poor Galaxy at Z= 8.496 as Revealed by JWST and ALMA’. <i>The Astrophysical Journal Letters</i> 944, no. 2 (2023): L30.</div>
+
+        <div class="csl-entry">Heintz, K. E., A. E. Shapley, R. L. Sanders, M. Killi, D. Watson, G. Magdis, F. Valentino, M. Ginolfi, D. Narayanan, and T. R. Greve. ‘Gauging the Mass of Metals in the Gas Phase of Galaxies from the Local Universe to the Epoch of Reionization’. <i>Astronomy & Astrophysics</i> 678 (2023): A30.</div>
+
+        <div class="csl-entry">Heintz, K. E., J. P. U. Fynbo, S. J. Geier, P. Møller, J.-K. Krogager, C. Konstantopoulou, A. de Burgos, L. Christensen, C. L. Steinhardt, and B. Milvang-Jensen. ‘Spectroscopic Classification of a Complete Sample of Astrometrically-Selected Quasar Candidates Using Gaia DR2’. <i>Astronomy & Astrophysics</i> 644 (2020): A17.</div>
+
+        <div class="csl-entry">Heintz, K. E., J. P. U. Fynbo, S. J. Geier, P. Moller, J.-K. Krogager, C. Konstantopoulou, A. de Burgos, L. Christensen, C. L. Steinhardt, and B. Milvang-Jensen. ‘VizieR Online Data Catalog: Astrometrically-Selected QSO Candidates (Heintz+, 2020)’. <i>VizieR Online Data Catalog</i> 364 (2021): J-A+.</div>
+      </div>
+    </div>
+  </div>
 
 </body>
 </html>
