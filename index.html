@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Sophia N. Wilson</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Roboto+Mono&display=swap" rel="stylesheet">
 
   <style>
     body {
@@ -12,16 +12,16 @@
       color: #333;
       margin: 0;
       padding: 0;
-      background-color: #f0f2f5;
+      background-color: #f5f5f5;
     }
 
     header {
       background-color: #ffffff;
       border-bottom: 1px solid #e0e0e0;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
       position: sticky;
       top: 0;
       z-index: 1000;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
 
     nav {
@@ -31,7 +31,6 @@
       display: flex;
       flex-wrap: wrap;
       align-items: center;
-      justify-content: space-between;
     }
 
     nav a {
@@ -40,12 +39,11 @@
       color: #333;
       font-weight: 600;
       border-bottom: 2px solid transparent;
-      padding-bottom: 2px;
       transition: border-color 0.2s;
     }
 
     nav a:hover {
-      border-color: #555;
+      border-color: #f4d35e;
     }
 
     .wrapper {
@@ -62,7 +60,10 @@
       background-color: #ffffff;
       padding: 20px;
       border-radius: 12px;
-      box-shadow: 0 4px 16px rgba(0,0,0,0.05);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      position: sticky;
+      top: 20px;
+      align-self: flex-start;
     }
 
     .sidebar img {
@@ -112,14 +113,28 @@
       box-shadow: 0 4px 16px rgba(0,0,0,0.05);
     }
 
-    .main h1, .main h2 {
+    h1, h2 {
       margin-top: 0;
       color: #111;
+    }
+
+    h2 {
+      border-bottom: 2px dashed #f4d35e;
+      display: inline-block;
+      padding-bottom: 4px;
+      margin-bottom: 15px;
+      font-family: 'Roboto Mono', monospace;
     }
 
     .main p {
       margin-bottom: 15px;
       line-height: 1.7;
+    }
+
+    .welcome {
+      font-weight: 600;
+      color: #666;
+      margin-bottom: 25px;
     }
 
     .main ul {
@@ -138,12 +153,6 @@
       margin-right: 4px;
     }
 
-    /* Modern look enhancements */
-    header, .main, .sidebar {
-      border-radius: 12px;
-    }
-
-    /* Responsive / phone-friendly adjustments */
     @media (max-width: 768px) {
       .wrapper {
         flex-direction: column;
@@ -151,12 +160,7 @@
       }
 
       nav {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-
-      nav a {
-        margin-bottom: 8px;
+        justify-content: center;
       }
 
       .sidebar, .main {
@@ -173,6 +177,7 @@
 
   <header>
     <nav>
+      <a href="index.html">HOME</a>
       <a href="cv.pdf">CV</a>
       <a href="publications.html">PUBLICATIONS</a>
       <a href="teaching.html">TEACHING</a>
@@ -197,6 +202,8 @@
     </div>
 
     <div class="main">
+      <p class="welcome">Welcome! I'm Sophia, a PhD student passionate about sustainable machine learning and astrophysics.</p>
+
       <h2>Biography</h2>
       <p>  
         Sophia is an incoming PhD student in the Sustainable Machine Learning group at the Machine Learning Section, Department of Computer Science, University of Copenhagen (UCPH). 
