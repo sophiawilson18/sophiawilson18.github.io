@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>Sophia N. Wilson</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-  <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
   <style>
     body {
@@ -12,15 +12,16 @@
       color: #333;
       margin: 0;
       padding: 0;
-      background-color: #f5f5f5;
+      background-color: #f0f2f5;
     }
 
     header {
-      background-color: #f9f9f9;
-      border-bottom: 1px solid #ddd;
+      background-color: #ffffff;
+      border-bottom: 1px solid #e0e0e0;
       position: sticky;
       top: 0;
       z-index: 1000;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     }
 
     nav {
@@ -29,20 +30,22 @@
       padding: 15px 30px;
       display: flex;
       flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
     }
 
     nav a {
       margin-right: 20px;
       text-decoration: none;
-      color: #0077b6;
-      font-weight: bold;
+      color: #333;
+      font-weight: 600;
       border-bottom: 2px solid transparent;
       padding-bottom: 2px;
       transition: border-color 0.2s;
     }
 
     nav a:hover {
-      border-color: #0077b6;
+      border-color: #555;
     }
 
     .wrapper {
@@ -59,7 +62,7 @@
       background-color: #ffffff;
       padding: 20px;
       border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.05);
     }
 
     .sidebar img {
@@ -71,10 +74,12 @@
     .sidebar h2 {
       font-size: 20px;
       margin: 0 0 10px;
+      color: #222;
     }
 
     .contact-list {
       font-size: 14px;
+      margin-top: 10px;
     }
 
     .contact-list p {
@@ -91,8 +96,12 @@
     }
 
     .contact-list a {
-      color: #0077b6;
+      color: #555;
       text-decoration: none;
+    }
+
+    .contact-list a:hover {
+      text-decoration: underline;
     }
 
     .main {
@@ -100,11 +109,17 @@
       background-color: #ffffff;
       padding: 30px;
       border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.05);
     }
 
-    h1, h2 {
+    .main h1, .main h2 {
       margin-top: 0;
+      color: #111;
+    }
+
+    .main p {
+      margin-bottom: 15px;
+      line-height: 1.7;
     }
 
     .main ul {
@@ -118,12 +133,17 @@
     }
 
     .main ul li span {
-      font-weight: bold;
-      color: #0077b6;
+      font-weight: 600;
+      color: #333;
       margin-right: 4px;
     }
 
-    /* Mobile layout */
+    /* Modern look enhancements */
+    header, .main, .sidebar {
+      border-radius: 12px;
+    }
+
+    /* Responsive / phone-friendly adjustments */
     @media (max-width: 768px) {
       .wrapper {
         flex-direction: column;
@@ -131,7 +151,12 @@
       }
 
       nav {
-        padding: 15px;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      nav a {
+        margin-bottom: 8px;
       }
 
       .sidebar, .main {
@@ -173,23 +198,31 @@
 
     <div class="main">
       <h2>Biography</h2>
-      <p>  Sophia is an incoming PhD student in the Sustainable Machine Learning group at the Machine Learning Section, Department of Computer Science, University of Copenhagen (UCPH). 
-        She holds a master’s degree in Computational Physics and a bachelor’s degree in Physics, both from the Niels Bohr Institute, UCPH. 
+      <p>  
+        Sophia is an incoming PhD student in the Sustainable Machine Learning group at the Machine Learning Section, Department of Computer Science, University of Copenhagen (UCPH). 
+      </p>
+      <p>
+        She holds a master’s degree in Computational Physics and a bachelor’s degree in Physics, both from the Niels Bohr Institute, UCPH.
+      </p>
+      <p>
         Her research focuses on resource-efficient and physics-informed machine learning. 
-        Sophia also has a background in astrophysics, with research focusing on estimating hydrogen gas masses in high-redshift galaxies and measuring cosmological parameters using fast radio bursts. <p>
+      </p>
+      <p>
+        Sophia also has a background in astrophysics, with research focusing on estimating hydrogen gas masses in high-redshift galaxies and measuring cosmological parameters using fast radio bursts.
+      </p>
 
       <h2>News</h2>
       <ul>
-          <li><span>May 2025:</span> Submitted my master's thesis on reducing the carbon footprint of machine learning with physics-informed techniques.</li>
-          <li><span>March 2025:</span> Presented my research at the 4th Annual Niels Bohr Institute MSc Student Symposium.</li>
-          <li><span>October 2024:</span> Participated in the AI Structured Learning 2024 Workshop in Göteborg.</li>
-          <li><span>August 2024:</span> Attended the Hamlet-Physics 2024 Conference in Copenhagen.</li>
-          <li><span>February–June 2024:</span> Completed an exchange semester at the University of Amsterdam, focusing on machine learning and astrophysics.</li>
-          <li><span>May 2023:</span> Published my first-author paper in Astronomy & Astrophysics on calibrating far-infrared oxygen emission lines to estimate hydrogen gas masses in high-redshift galaxies.</li>
-          <li><span>August 2022:</span> Attended the Astromatic Summer School at the University of Montreal.</li>
-          <li><span>June 2022:</span> Defended my bachelor’s thesis on measuring cosmological parameters with fast radio bursts.</li>
-          <li><span>May 2022:</span> Participated in the Annual Danish Astronomy Meeting in Middelfart.</li>
-          <li><span>August 2021:</span> Attended the Nordic Optical Telescope Summer School in Las Palmas.</li>
+        <li><span>May 2025:</span> Submitted my master's thesis on reducing the carbon footprint of machine learning with physics-informed techniques.</li>
+        <li><span>March 2025:</span> Presented my research at the 4th Annual Niels Bohr Institute MSc Student Symposium.</li>
+        <li><span>October 2024:</span> Participated in the AI Structured Learning 2024 Workshop in Göteborg.</li>
+        <li><span>August 2024:</span> Attended the Hamlet-Physics 2024 Conference in Copenhagen.</li>
+        <li><span>February–June 2024:</span> Completed an exchange semester at the University of Amsterdam, focusing on machine learning and astrophysics.</li>
+        <li><span>May 2023:</span> Published my first-author paper in Astronomy & Astrophysics on calibrating far-infrared oxygen emission lines to estimate hydrogen gas masses in high-redshift galaxies.</li>
+        <li><span>August 2022:</span> Attended the Astromatic Summer School at the University of Montreal.</li>
+        <li><span>June 2022:</span> Defended my bachelor’s thesis on measuring cosmological parameters with fast radio bursts.</li>
+        <li><span>May 2022:</span> Participated in the Annual Danish Astronomy Meeting in Middelfart.</li>
+        <li><span>August 2021:</span> Attended the Nordic Optical Telescope Summer School in Las Palmas.</li>
       </ul>
     </div>
 
