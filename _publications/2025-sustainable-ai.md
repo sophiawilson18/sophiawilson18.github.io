@@ -1,12 +1,12 @@
 ---
-title: "Sustainable AI: Tools for Moving Towards Green AI"
-authors: Raghavendra Selvan
+title: "Title"
+authors: Author 
 collection: publications
-permalink: /publication/2025-sustainable-ai
+permalink: /publication/year-month.title
 date: 2025-10-01
-project: 'sustofai'
-venue: 'Upcoming Book (Early Release online)'
-pubtype: 'thesis'
+project: 'project'
+venue: 'Venue'
+pubtype: 'ml'
 paperurl: https://www.oreilly.com/library/view/sustainable-ai/9781098155506/
 pdf: https://www.oreilly.com/library/view/sustainable-ai/9781098155506/
 ---
