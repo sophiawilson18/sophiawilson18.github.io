@@ -12,6 +12,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Ressource-Efficient Machine Learning
 ---
+<!--
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'ml' %} 
@@ -19,9 +20,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% endif %}
 {% endfor %}
 </ol>
+-->
 
 ## Astrophysics and Cosmology
 ---
+<!--
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'astro' %}
@@ -29,4 +32,5 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% endif %}
 {% endfor %}
 </ol>
+-->
 
