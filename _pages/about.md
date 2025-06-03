@@ -19,12 +19,12 @@ During her BSc studies, she conducted research at the [Cosmic Dawn Center](https
 ## News
 * **2025-05**: "Physics-Informed Machine Learning as a Carbon-Efficient Approach". Guest presentation at PhD course on Machine Learning for Sciences, UCPH.
 * **2025-05**: Master’s thesis submitted on Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning.
-* **2025-05**: "Hvordan er det at læse fysik på Universitetet?". Outreach talks (x4) at Falkonergårdens Gymnasium.  
-* **2025-04**: "Quantifying the Reduction in Carbon Footprint of Physics-Informed Neural Networks". Joint presentation with Raghavendra Selvan at Climate Action Day at the Copenhagen Center of Social Data Science, UCPH.
-* **2025-03**: Presentation of thesis given at the 4th Annual Niels Bohr Institute MSc Student Symposium.
+* **2025-05**: "Hvordan er det at læse fysik på Universitetet?". Outreach talks at Falkonergårdens Gymnasium.  
+* **2025-04**: "On the Carbon Footprint of AI: From Monitoring to Mitigation". Joint presentation with Raghavendra Selvan at Climate Action Day, Copenhagen Center of Social Data Science, UCPH.
+* **2025-03**: "Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning". Presentation of current thesis work at the 4th Annual Niels Bohr Institute MSc Student Symposium, UCPH.
 * **2024-10**: Participated in the AI Structured Learning 2024 Workshop in Göteborg.
 * **2024-08**: Attended the Hamlet-Physics 2024 Conference in Copenhagen.
-* **2024-06**: Completed an exchange semester at the University of Amsterdam.
+* **2024-06**: Completed an exchange semester at the Insitute of Physics, University of Amsterdam.
 
 
 <!--
