@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-CV. _last updated Feb. 2024._ ([download](files/raghav_cv_long.pdf))
+[CV](files/CV_April_2025.pdf). _Last updated May 2025._ 
 
