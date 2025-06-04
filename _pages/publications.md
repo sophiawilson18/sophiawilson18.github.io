@@ -12,15 +12,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Ressource-Efficient Machine Learning
 ---
-<!--
-<ol>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'ml' %} 
-  <li>    {% include archive-single.html %} </li>
-  {% endif %}
-{% endfor %}
-</ol>
--->
+
 
 ## Astrophysics and Cosmology
 ---
