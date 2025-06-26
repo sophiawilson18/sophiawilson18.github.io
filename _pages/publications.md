@@ -16,7 +16,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Astrophysics and Cosmology
 ---
-<!--
+
 <ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'astro' %}
@@ -24,5 +24,5 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
   {% endif %}
 {% endfor %}
 </ol>
--->
+
 
