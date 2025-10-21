@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sophia N. Wilson"
   avatar           : "sw.png"
-  bio              : "Incoming PhD student @ Machine Learning Section, University of Copenhagen" 
+  bio              : "PhD student @ SAINTS LAB, University of Copenhagen" 
   employer         : 
   location         : "Copenhagen, Denmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=HPp3xmYAAAAJ"
-  email            : "sophia.wilson@nbi.ku.dk"
+  email            : "sophia.wilson@di.ku.dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-4960-8223"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
