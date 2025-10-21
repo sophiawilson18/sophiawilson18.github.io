@@ -7,16 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Sophia is an incoming PhD student in the Sustainable Machine Learning group at the Machine Learning (ML) Section, Department of Computer Science, University of Copenhagen (UCPH). Her research focuses on resource-efficient ML and the intersection of ML and physics.
+I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My research is at the intersection of AI and environmental sustainability, and specifically on data- and ressource-efficient machine learning (ML). I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en). 
 
-She holds a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where she developed ML methods that incorporate physical knowledge to improve the energy efficiency of models. Her master’s work was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en). 
+I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed ML as a way to reduce energy use and carbon emissions of ML models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
-During her BSc studies, she conducted research at the [Cosmic Dawn Center](https://cosmicdawn.dk/), focusing on estimating hydrogen gas masses in high-redshift galaxies and measuring cosmological parameters using fast radio bursts, under the supervision of [Kasper Heintz](https://keheintz.github.io/).
- 
-
+During my BSc studies, I conducted research at the [Cosmic Dawn Center](https://cosmicdawn.dk/), focusing on estimating hydrogen gas masses in high-redshift galaxies and measuring cosmological parameters using fast radio bursts, under the supervision of [Kasper Heintz](https://keheintz.github.io/).
 
 
-## News
+
+
+## Recent Activities and Highlights
+* **2025-09**: [Paper](https://arxiv.org/abs/2509.24517) on arXiv. 
+* **2025-09**: Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
+* **2025-08**: Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
+* **2025-08**: Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
 * **2025-05**: Master’s thesis titled 'Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning' successfully defended.
 * **2025-05**: "Physics-Informed Machine Learning as a Carbon-Efficient Approach". Guest presentation at PhD course on Machine Learning for Sciences, UCPH.
 * **2025-05**: "Hvordan er det at læse fysik på universitetet?". Outreach talks at Falkonergårdens Gymnasium.  

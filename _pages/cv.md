@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Download CV](files/CV_April_2025.pdf) (_last updated May 2025)._
+[Download my CV!](files/CV.pdf) (_last updated September 2025)._
 
