@@ -7,12 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My research is at the intersection of AI and environmental sustainability, and specifically on data- and ressource-efficient machine learning (ML). I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en). 
+I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of AI, data, and sustainability, with a focus on how machine learning systems can be designed to be socially, economically, and especially environmentally sustainable. I study data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
 
 I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed ML as a way to reduce energy use and carbon emissions of ML models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
-During my BSc studies, I conducted research at the [Cosmic Dawn Center](https://cosmicdawn.dk/), focusing on estimating hydrogen gas masses in high-redshift galaxies and measuring cosmological parameters using fast radio bursts, under the supervision of [Kasper Heintz](https://keheintz.github.io/).
-
+Keywords: Sustainable, resource-efficient, frugal, and responsible machine learning and data practices.
 
 
 
