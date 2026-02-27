@@ -16,12 +16,12 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 
 ## Recent Activities and Highlights
-* **2026-03**: Co-organiser and moderator at the [SAINTS’26 workshop on Sustainable AI](https://saintslab.github.io/workshop2026/). 
-* **2026-02**: Guest-lecturing on AI, Resource Use and Sustainability at Københavns Professionshøjskole. 
-* **2026-02**: [Preprint: Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
+* **2026-03**: Co-organiser and moderator of the [SAINTS’26 workshop on Sustainable AI](https://saintslab.github.io/workshop2026/). 
+* **2026-02**: Guest-lecturing on AI, Resource Use, and Sustainability at Københavns Professionshøjskole. 
+* **2026-02**: Preprint: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
 * **2026-02**: Participated in MLSS 2025 in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
-* **2026-01**: [Preprint: How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056) on arXiv. 
-* **2025-09**: [Preprint: Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
+* **2026-01**: Preprint: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056) on arXiv. 
+* **2025-09**: Preprint:[Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
 * **2025-09**: Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
 * **2025-08**: Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
 * **2025-08**: Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
