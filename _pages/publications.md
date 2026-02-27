@@ -23,8 +23,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Astrophysics and Cosmology
 ---
-
-<ol>∏
+<ol>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'astro' %}
      <li> {% include archive-single.html %} </li>

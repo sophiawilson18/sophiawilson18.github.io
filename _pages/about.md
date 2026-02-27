@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of AI, data, and sustainability, with a focus on how machine learning systems can be designed to be socially, economically, and especially environmentally sustainable. I study data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
+I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of AI, data, and sustainability, with a focus on how machine learning systems can be designed to be environmentally sustainable. My research interests include data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
 
 I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed ML as a way to reduce energy use and carbon emissions of ML models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
@@ -16,7 +16,12 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 
 ## Recent Activities and Highlights
-* **2025-09**: [Paper](https://arxiv.org/abs/2509.24517) on arXiv. 
+* **2026-03**: Co-organiser and moderator at the [SAINTS’26 workshop on Sustainable AI](https://saintslab.github.io/workshop2026/). 
+* **2026-02**: Guest-lecturing on AI, Resource Use and Sustainability at Københavns Professionshøjskole. 
+* **2026-02**: [Preprint: Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
+* **2026-02**: Participated in MLSS 2025 in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
+* **2026-01**: [Preprint: How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056) on arXiv. 
+* **2025-09**: [Preprint: Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
 * **2025-09**: Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
 * **2025-08**: Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
 * **2025-08**: Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
