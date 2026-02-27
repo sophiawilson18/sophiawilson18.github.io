@@ -26,6 +26,8 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 **2025-09**: Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
 **2025-08**: Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
 **2025-08**: Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
+
+<!--
 **2025-05**: Master’s thesis titled 'Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning' successfully defended.
 **2025-05**: "Physics-Informed Machine Learning as a Carbon-Efficient Approach". Guest presentation at PhD course on Machine Learning for Sciences, UCPH.
 **2025-05**: "Hvordan er det at læse fysik på universitetet?". Outreach talks at Falkonergårdens Gymnasium.  
@@ -36,7 +38,7 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 **2024-06**: Completed an exchange semester at the Insitute of Physics, University of Amsterdam.
 
 
-<!--
+
 * **2023-05**: First-author paper published in [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/pdf/2024/05/aa46878-23.pdf) on calibrating far-infrared oxygen emission lines to estimate hydrogen gas masses in high-redshift galaxies.
 * **2022-08**: Attended the Astromatic Summer School at the University of Montreal.
 * **2022-06**: Defended my bachelor’s thesis on measuring cosmological parameters with fast radio bursts.
