@@ -1,7 +1,7 @@
 ---
 title: "Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting"
-authbefore: "Sophia N. Wilson, Jens Hesselbjerg Christensen, "
-authafter: ", and Raghavendra Selvan"
+authbefore: ""
+authafter: ", J. H. Christensen, and R. Selvan"
 collection: publications
 permalink: /publication/2025-01-01-trading-carbon-for-physics
 date: 2025-01-01

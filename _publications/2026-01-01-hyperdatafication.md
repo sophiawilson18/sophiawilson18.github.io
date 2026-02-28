@@ -1,7 +1,7 @@
 ---
 title: "How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI"
-authbefore: "Sophia N. Wilson, Sebastian Mair, Mophat Okinyi, Erik B. Dam, Janin Koch, "
-authafter: ", and Raghavendra Selvan"
+authbefore: ""
+authafter: ", S. Mair, M. Okinyi, E. B. Dam, J. Koch, and R. Selvan"
 collection: publications
 permalink: /publication/2025-01-01-hyperdatafication
 date: 2025-01-01
