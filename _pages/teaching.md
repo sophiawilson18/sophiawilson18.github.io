@@ -9,24 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching
+## Teaching Assistant
 ---
-University: Teaching assistant at Aarhus University in the following course:
+Aarhus University:
 * Data Analysis and Machine Learning for high school teachers (2026)
 
-University: Teaching assistant at UCPH in the following courses:
+University of Copenhagen:
 * Machine Learning A (2025)
 * Mathematics for Physicists 2 (2022, 2023)
 * Mathematics for Physicists 1 (2022, 2023)
 * Mechanics and Special Relativity (2020, 2021)
 
 High school/primary school: 
-* Teaching assistant at Falkonergårdens Gymnasium in Mathmatics A (2025)
-* Tutor at Insero Summer Science Camp (7th-9th grade) (2023)
+* Falkonergårdens Gymnasium in Mathmatics A (2025)
+* Insero Summer Science Camp (7th-9th grade) (2023)
 
 
-## Outreach
+## Guest-lecturing, Workshops, and Outreach
 ---
+* Co-organiser and moderator of the SAINTS’26 workshop on Sustainable AI for Sciences (2026)
 * Guest-lecturing on AI, Resource Use and Sustainability at Københavns Professionshøjskole (2026)
 * Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the National Climate Action Day for Gymnasiums (2025)
 * Guest-talk at PhD course on Machine Learning for Sciences, UCPH on "Physics-Informed Machine Learning as a Carbon-Efficient Approach" (2025)
