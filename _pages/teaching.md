@@ -27,6 +27,8 @@ High school/primary school:
 
 ## Guest-lecturing, Workshops, and Outreach
 ---
+* Presentation at the Embedded AI group meeting at the Technical University of Denmark (2026)
+* Presentation and panel discussion at the Sustainable AI in Practice event at the Lund Stem Cell Center, Lund University (2026)
 * Co-organiser and moderator of the SAINTS’26 workshop on Sustainable AI for Sciences (2026)
 * Guest-lecturing on AI, Resource Use and Sustainability at Københavns Professionshøjskole (2026)
 * Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the National Climate Action Day for Gymnasiums (2025)
