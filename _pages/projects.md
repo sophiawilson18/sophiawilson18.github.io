@@ -23,15 +23,17 @@ This shift -- from building models *from* data to actively *creating* data *for*
 
 ---
 
+
+### 🖥️ Meta logs employee keystrokes for AI training **[Reuters, April 2026](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
+
+Meta is installing tracking software on US employees' computers to capture mouse movements, clicks, keystrokes, and occasional screenshots, feeding the data directly into their AI agent training pipeline. [A spokesperson from Meta](https://www.bbc.com/news/articles/cvglyklz49jo) told the BBC that the sole purpose of the data collection is to train agents to perform computer-based tasks. In this way, employees' everyday work has become AI training data.  
+
+
+---
+
 ### 🇮🇳 Hand farms for robot training **[Quasa, November 2025](https://quasa.io/media/the-hidden-hand-farms-of-india-fueling-the-ai-robot-revolution-with-human-motion)**
 
 In Bengaluru, workers wearing head-mounted cameras spend hours folding towels, sorting utensils, and stacking boxes, following scripts with strict time limits and earning around USD 230–250 per month.  The footage is uploaded to AI labs in the US, where AI models use it to train robots to grasp, fold, and manipulate objects -- tasks these robots may eventually perform instead of humans. The workers carrying out these tasks are mostly in the Global South, while the economic and practical benefits of the resulting AI systems predominantly accrue in the Global North. This is a clear example of hyper-datafication, and of how its costs and benefits are distributed unevenly.
 
----
-
-
-### 🖥️ Meta logs employee keystrokes for AI training **[Reuters, April 2026](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
-
-Meta is installing tracking software on US employees' computers to capture mouse movements, clicks, keystrokes, and occasional screenshots, feeding the data directly into their AI agent training pipeline. [A spokesperson from Meta](https://www.bbc.com/news/articles/cvglyklz49jo) told the BBC that the sole purpose of the data collection is to train agents to perform computer-based tasks. In this way, employee's everyday work has become AI training data.  
 
 
