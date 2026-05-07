@@ -11,56 +11,29 @@ redirect_from:
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Key Project Areas
 
-RS been working in three key areas of Machine Learning research, with both methodological and application driven contributions.
 
-- [Sustainability of AI](#sustainability-of-ai)
-- [AI for Sciences](#ai-for-sciences)
-- [Bio-Medical Image Analysis](#bio-medical-image-analysis)
-
-If you are interested in joining our team check out the open positions advertised on [UCPH Job Portal](https://employment.ku.dk/). And if no positions are currently being advertised by RS feel free to reach out with a short email about what you are interested in and how the work in RS's team might be of interest to you. 
-
-## Sustainability of AI
+## Hyper-Datafication
 ---
-Material cost of developing and deploying complex ML models is growing considerably. In this line of research, we are focusing on some facets of sustainability of ML. Primarily, by focusing on the environmental sustainability (fx: energy consumption and carbon footprint) of ML methods and its interactions with social sustainability (fx: fairness, robustness, access) of AI. Some of the key publications from our team are listed below. 
+In our paper [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056) (FAccT 2026), we define hyper-datafication as:
 
-<ol>
-{% for post in site.publications reversed %}
-  {% if post.project == 'sustofai' %}
-     <li> {% include archive-single.html %} </li>
-  {% endif %}
-{% endfor %}
-</ol>
+> the industrialised production and accumulation of data for AI model development across three coupled processes: (i) the large-scale collection and recombination of existing data sources, (ii) the use of AI systems to generate synthetic data, and (iii) the creation of purpose-built data whose primary function is to serve as training input for AI systems rather than direct human use.
+
+This shift -- from building models *from* data to actively *creating* data *for* models -- is not an abstract trend. It is happening right now, with real environmental, economic, and social costs that often go unexamined. Occasionally, some of these stories make it into the news. This page is my attempt to keep track of them as they emerge. If you come across stories, feel free to send them my way.
 
 ---
 
-## AI for Sciences
----
-ML methods can accelerate research and open possibilities of asking novel questions in many scientific disciplines. In this line of research, several inter-disciplinary collaborations spanning a broad range of topics are being investigated. From an ML point of view, these do open interesting methods development.
+### 🇮🇳 Hand farms for robot training
+**[Quasa, November 2025](https://quasa.io/media/the-hidden-hand-farms-of-india-fueling-the-ai-robot-revolution-with-human-motion)**
 
-<ol>
-{% for post in site.publications reversed %}
-  {% if post.project == 'ai4sciences' %}
-     <li> {% include archive-single.html %} </li>
-  {% endif %}
-{% endfor %}
-</ol>
+In Bengaluru, workers wearing head-mounted cameras spend hours folding towels, sorting utensils, and stacking boxes, following scripts with strict time limits and earning around USD 230–250 per month.  The footage is uploaded to AI labs in the US, where AI models use it to train robots to grasp, fold, and manipulate objects -- tasks these robots may eventually perform instead of humans. The workers carrying out these tasks are mostly in the Global South, while the economic and practical benefits of the resulting AI systems predominantly accrue in the Global North. This is a clear example of hyper-datafication: data created for no other purpose than to be fed into AI models.
+
 ---
 
-## Bio-Medical Image Analysis
----
-PhD training of RS was in medical image analysis. RS still holds keen interest in this domain and is active in investigating uncertainty quantification and use of deep latent generative models/ GNNs in this domain.
+<!--
+### 🖥️ Meta logs employee keystrokes for AI training
+**[Reuters, April 2026](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**
 
-<ol>
-{% for post in site.publications reversed %}
-  {% if post.project == 'media' %}
-     <li> {% include archive-single.html %} </li>
-  {% endif %}
-{% endfor %}
-</ol>
----
+Meta is installing tracking software on US employees' computers to capture mouse movements, clicks, keystrokes, and occasional screenshots — feeding it into their AI agent training pipeline. The programme is called the Model Capability Initiative. A Yale law professor noted it subjects white-collar workers to a level of surveillance previously reserved for gig workers. European law would likely prohibit it outright.
 
-
-
-
+-->

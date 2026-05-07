@@ -17,17 +17,19 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 ## Recent Activities and Highlights
 
+**2026-05**: Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
+
+**2026-04**: Paper accepted to ICML 2026! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
+
 **2024-04** Invited speaker at the Embedded AI group meeting at the Technical University of Denmark. 
 
 **2024-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
 
-**2026-04**: Paper accepted at FAccT 2026! Find the preprint on on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
+**2026-04**: Paper accepted to FAccT 2026! See preprint on on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
 
 **2026-03**: Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/) a half day workshop on Sustainable AI for Sciences. 
 
 **2026-02**: Guest-lecturing on AI, Resource Use, and Sustainability at Københavns Professionshøjskole. 
-
-**2026-02**: Preprint: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
 
 **2026-02**: Participated in MLSS 2025 in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
 
