@@ -17,6 +17,8 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 ## Recent Activities and Highlights
 
+**2026-05**: "On the Challenges in Assessing the Sustainability of AI Joint". Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
+
 **2026-05**: Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
 
 **2026-04**: Paper accepted to ICML 2026! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).

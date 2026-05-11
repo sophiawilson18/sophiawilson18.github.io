@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Ressource-Efficient Machine Learning
+## Sustainable / Ressource-Efficient Machine Learning
 ---
 <ol>
 {% for post in site.publications reversed %}
