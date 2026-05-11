@@ -19,7 +19,7 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 **2026-05**: Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
 
-**2026-04**: Paper accepted to ICML 2026! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789) on arXiv.
+**2026-04**: Paper accepted to ICML 2026! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
 **2024-04** Invited speaker at the Embedded AI group meeting at the Technical University of Denmark. 
 
