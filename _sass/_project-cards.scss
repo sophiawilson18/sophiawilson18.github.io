@@ -1,0 +1,79 @@
+.project-grid {
+  margin-top: 0.5em;
+}
+
+.project-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5em;
+  padding: 1.4em 1em;
+  margin-bottom: 0.5em;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.15s ease;
+  border: 1px solid transparent;
+
+  &:hover {
+    background: #f4fbf8;
+    border-color: #d4ede3;
+    text-decoration: none;
+
+    .project-card__title { color: $primary-color; }
+    .project-card__arrow { transform: translateX(5px); color: $primary-color; }
+  }
+
+  &__number {
+    font-size: 2.8em;
+    font-weight: 700;
+    color: #d4ede3;
+    line-height: 1;
+    min-width: 2.2rem;
+    flex-shrink: 0;
+    font-family: $sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  &__body {
+    flex: 1;
+  }
+
+  &__title {
+    font-size: 1.15em;
+    font-weight: 600;
+    color: $text-color;
+    margin-bottom: 0.35em;
+    transition: color 0.15s ease;
+    line-height: 1.3;
+  }
+
+  &__description {
+    font-size: 0.9em;
+    color: $gray;
+    line-height: 1.5;
+    margin-bottom: 0.6em;
+  }
+
+  &__tags {
+    display: flex;
+    gap: 0.5em;
+    flex-wrap: wrap;
+  }
+
+  &__tag {
+    display: inline-block;
+    font-size: 0.72em;
+    font-weight: 600;
+    background: #eaf7f1;
+    color: #2d6a4f;
+    padding: 0.15em 0.55em;
+    border-radius: 4px;
+    letter-spacing: 0.02em;
+  }
+
+  &__arrow {
+    font-size: 1.3em;
+    color: $light-gray;
+    transition: transform 0.15s ease, color 0.15s ease;
+    flex-shrink: 0;
+  }
+}
