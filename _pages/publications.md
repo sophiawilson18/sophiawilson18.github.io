@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications of Sophia N. Wilson"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,7 +10,7 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Sustainable / Resource-Efficient Machine Learning
+## Sustainable AI and Resource-Efficient ML
 
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'ml' %}

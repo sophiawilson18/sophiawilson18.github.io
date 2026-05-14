@@ -12,7 +12,7 @@
   display: block;
   font-size: 1.02em;
   font-weight: 500;
-  color: $text-color;
+  color: $link-color;
   text-decoration: none;
   line-height: 1.4;
   margin-bottom: 0.3em;
@@ -51,9 +51,24 @@
   }
 }
 
+.teaching-section {
+  p strong {
+    display: inline-block;
+    color: $primary-color;
+    font-size: 0.95em;
+    font-weight: 600;
+    border-bottom: 1px solid $primary-color;
+    padding-bottom: 1px;
+    margin-top: 0.75em;
+  }
+
+  ul {
+    margin-top: 0.3em;
+  }
+}
+
 .masthead__menu-item--active > a {
   color: $primary-color;
   font-weight: 600;
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 2px;
+  box-shadow: inset 0 -2px 0 $primary-color;
 }
