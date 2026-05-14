@@ -51,10 +51,8 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.3em;
-    padding-left: 0.6em;
-    border-left: 3px solid $primary-color;
-    border-bottom: none;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {

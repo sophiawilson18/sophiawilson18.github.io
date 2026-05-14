@@ -13,8 +13,7 @@
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item pub-card{% if post.featured %} pub-card--featured{% endif %}" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if post.featured %}<span class="pub-badge">Featured</span>{% endif %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {{post.authbefore}} <b>S. N. Wilson</b>{{post.authafter}}. <i>{{title}}.</i> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
     (<a href="{{ post.paperurl }}">link</a>) (<a href="{{ post.pdf }}">pdf</a>)
   </article>
