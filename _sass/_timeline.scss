@@ -6,9 +6,6 @@
 
   p {
     position: relative;
-    display: flex;
-    align-items: flex-start;
-    gap: 0.5em;
     margin-bottom: 1.25em;
     padding: 0.4em 0.6em;
     border-radius: 4px;
@@ -44,4 +41,9 @@
       letter-spacing: 0.02em;
     }
   }
+}
+
+.venue {
+  font-weight: 600;
+  color: #1a9e6b;
 }

@@ -19,29 +19,29 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 <div class="timeline" markdown="1">
 
-**2026-05** "On the Challenges in Assessing the Sustainability of AI Joint". Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
+**2026-05** *"On the Challenges in Assessing the Sustainability of AI Joint"*. Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
 
 **2026-05** Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
 
-**2026-04** Paper accepted to ICML 2026! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
+**2026-04** Paper accepted to <span class="venue">ICML 2026</span>! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
 **2024-04** Invited speaker at the Embedded AI group meeting at the Technical University of Denmark. 
 
 **2024-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
 
-**2026-04** Paper accepted to FAccT 2026! See preprint on on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
+**2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
 
 **2026-03** Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/) a half day workshop on Sustainable AI for Sciences. 
 
 **2026-02** Guest-lecturing on AI, Resource Use, and Sustainability at Københavns Professionshøjskole. 
 
-**2026-02** Participated in MLSS 2025 in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
+**2026-02** Participated in <span class="venue">MLSS 2025</span> in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
 
 **2025-12** [Interviewed by Kvinder i Fysik](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/) about my transition from physics studies to research in sustainable AI.
 
 **2025-09** Preprint:[Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
 
-**2025-09** Workshop at Det Åbne Gymnasium on "Sustainable AI" as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
+**2025-09** Workshop at Det Åbne Gymnasium on *"Sustainable AI"* as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
 
 **2025-08** Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
 
