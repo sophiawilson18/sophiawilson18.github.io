@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of AI, data, and sustainability, with a focus on how machine learning systems can be designed to be environmentally sustainable. My research interests include data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
+I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of artificial intelligence (AI), data, and sustainability, with a focus on how AI systems can be designed to be environmentally sustainable. My research interests include data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
 
-I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed ML as a way to reduce energy use and carbon emissions of ML models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
+I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
-<p class="keywords" markdown="1">Keywords: **Sustainable**, **resource-efficient**, **frugal**, and **responsible** machine learning and data practices.</p>
+<p class="keywords" markdown="1">**Keywords: Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
 
 
