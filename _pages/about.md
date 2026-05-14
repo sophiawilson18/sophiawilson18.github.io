@@ -17,6 +17,8 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 
 ## Recent Activities and Highlights
 
+<div class="timeline" markdown="1">
+
 **2026-05**: "On the Challenges in Assessing the Sustainability of AI Joint". Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
 
 **2026-05**: Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
@@ -44,6 +46,8 @@ Keywords: Sustainable, resource-efficient, frugal, and responsible machine learn
 **2025-08**: Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
 
 **2025-08**: Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
+
+</div>
 
 <!--
 **2025-05**: Master’s thesis titled 'Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning' successfully defended.
