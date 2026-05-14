@@ -13,13 +13,12 @@
 {% endif %}
 
 <div class="pub-entry">
-  <div class="pub-header">
-    <a class="pub-title" href="{{ post.paperurl }}">{{ title }}</a>
-    <span class="pub-venue-badge">{{ venue_display }}</span>
-  </div>
-  <div class="pub-authors">{{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }} &middot; {{ post.date | default: "1900-01-01" | date: "%Y" }}</div>
-  <div class="pub-links">
-    {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}">Link</a>{% endif %}
-    {% if post.pdf %}<a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}
+  <a class="pub-title" href="{{ post.paperurl }}">{{ title }}</a>
+  <div class="pub-meta">
+    {{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }}
+    &middot; {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    &middot; <span class="pub-venue-badge">{{ venue_display }}</span>
+    {% if post.paperurl %}&middot; <a class="pub-link" href="{{ post.paperurl }}">Link</a>{% endif %}
+    {% if post.pdf %}&middot; <a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}
   </div>
 </div>
