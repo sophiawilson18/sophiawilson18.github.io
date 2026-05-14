@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2023-01-01-the-cosmic-buildup-of-dust-and-metals
 date: 2023-01-01
 venue: 'Astronomy & Astrophysics 679 (2023): A91'
+venue_short: 'A&A 2023'
 pubtype: 'astro'
 paperurl: https://www.aanda.org/articles/aa/abs/2023/11/aa47418-23/aa47418-23.html
 pdf: /publications/files/the-cosmic-buildup-of-dust-and-metals.pdf

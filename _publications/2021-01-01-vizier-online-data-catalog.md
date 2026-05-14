@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2021-01-01-vizier-online-data-catalog
 date: 2021-01-01
 venue: 'VizieR Online Data Catalog 364 (2021): J‑A+'
+venue_short: 'VizieR 2021'
 pubtype: 'astro'
 paperurl: https://ui.adsabs.harvard.edu/abs/2021yCat..36440017H/abstract
 ---

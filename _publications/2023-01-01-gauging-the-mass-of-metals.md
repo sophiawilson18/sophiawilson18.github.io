@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2023-01-01-gauging-the-mass-of-metals
 date: 2023-01-01
 venue: 'Astronomy & Astrophysics 678 (2023): A30'
+venue_short: 'A&A 2023'
 pubtype: 'astro'
 paperurl: https://www.aanda.org/articles/aa/full_html/2023/10/aa46573-23/aa46573-23.html
 pdf: /publications/files/gauging-the-mass-of-metals.pdf
