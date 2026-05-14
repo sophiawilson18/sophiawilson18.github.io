@@ -28,6 +28,17 @@ This shift -- from building models *from* data to actively *creating* data *for*
 
 Meta is installing tracking software on US employees' computers to capture mouse movements, clicks, keystrokes, and occasional screenshots, feeding the data directly into their AI agent training pipeline. [A spokesperson from Meta](https://www.bbc.com/news/articles/cvglyklz49jo) told the BBC that the sole purpose of the data collection is to train agents to perform computer-based tasks. In this way, employees' everyday work has become AI training data.  
 
+---
+
+### At-home gig recording in more than 50 countries **[MIT Technology Review](https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/)**
+Gig workers in more than 50 countries collect data of everyday tasks. Despite pay being good relative to local standards, questions about
+privacy arise: how do you keep your private life off camera?
+
+---
+
+### State-sponsored robot training centres **[Rest of World, January 2026](https://restofworld.org/2026/china-robots-training-centers-workers/)**
+In China, local governments are building robot training centres and hiring workers to perform mundane tasks to address a shortage of data
+for humanoid robots. More than 40 state-owned training centres have been announced. This is hyper-datafication operating at state level: purpose-built national infrastructure for training data production.
 
 ---
 
