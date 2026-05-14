@@ -1,29 +1,36 @@
 .timeline {
   position: relative;
   padding-left: 1.75em;
-  border-left: 2px solid #52b788;
+  border-left: 2px solid #1a9e6b;
   margin-top: 0.5em;
 
   p {
     position: relative;
     margin-bottom: 1.25em;
+    padding: 0.4em 0.6em;
+    border-radius: 4px;
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: #f4fbf8;
+    }
 
     &::before {
       content: '';
       position: absolute;
-      left: -2.22em;
-      top: 0.35em;
+      left: -2.05em;
+      top: 0.5em;
       width: 10px;
       height: 10px;
       border-radius: 50%;
-      background: #2d6a4f;
+      background: #1a9e6b;
       border: 2px solid #fff;
-      box-shadow: 0 0 0 2px #52b788;
+      box-shadow: 0 0 0 2px #1a9e6b;
     }
 
     strong:first-child {
       display: inline-block;
-      background: #e8f5ef;
+      background: #eaf7f1;
       color: #2d6a4f;
       padding: 0.1em 0.55em;
       border-radius: 4px;

@@ -7,6 +7,7 @@ permalink: /publication/2025-01-01-data-frugality
 date: 2025-01-01
 venue: 'arXiv'
 pubtype: 'ml'
+featured: true
 paperurl: https://arxiv.org/abs/2602.19789
 pdf: /publications/files/data-frugality.pdf
 ---
