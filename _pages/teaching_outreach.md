@@ -14,7 +14,7 @@ redirect_from:
 <div class="teaching-section" markdown="1">
 
 **Aarhus University**
-* Data Analysis and Machine Learning for high school teachers (2026)
+* Data Analysis and Machine Learning for High School Teachers (2026)
 
 **University of Copenhagen**
 * Machine Learning A (2025)
@@ -22,7 +22,7 @@ redirect_from:
 * Mathematics for Physicists 1 (2022, 2023)
 * Mechanics and Special Relativity (2020, 2021)
 
-**High school / Primary school**
+**High School / Primary School**
 * Falkonergårdens Gymnasium — Mathematics A (2025)
 * Insero Summer Science Camp, 7th–9th grade (2023)
 
@@ -54,9 +54,4 @@ redirect_from:
 **2025** Outreach talks at Falkonergårdens Gymnasium on *"Hvordan er det at læse fysik på universitetet?"*.
 
 </div>
-
-
-## Media Coverage
-
-* *[How the US tech industry is shaping the transition to green energy](https://www.nature.com/articles/d41586-025-00743-7)*. Nature Index 2025 Energy. ([pdf](files/nature2025.pdf))
 
