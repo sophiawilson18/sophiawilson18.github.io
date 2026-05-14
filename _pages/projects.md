@@ -11,7 +11,6 @@ author_profile: true
 {% assign sorted_projects = site.projects | sort: "order" %}
 {% for project in sorted_projects %}
 <a class="project-card" href="{{ project.url }}">
-  <span class="project-card__number">{% if forloop.index < 10 %}0{{ forloop.index }}{% else %}{{ forloop.index }}{% endif %}</span>
   <div class="project-card__body">
     <div class="project-card__title">{{ project.title }}</div>
     <div class="project-card__description">{{ project.description }}</div>
@@ -23,7 +22,6 @@ author_profile: true
     </div>
     {% endif %}
   </div>
-  <span class="project-card__arrow">→</span>
 </a>
 {% endfor %}
 </div>

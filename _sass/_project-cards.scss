@@ -3,34 +3,21 @@
 }
 
 .project-card {
-  display: flex;
-  align-items: center;
-  gap: 1.5em;
-  padding: 1.4em 1em;
-  margin-bottom: 0.5em;
+  display: block;
+  padding: 1.6em 1.8em;
+  margin-bottom: 1.2em;
   border-radius: 8px;
-  text-decoration: none;
-  transition: background 0.15s ease;
-  border: 1px solid transparent;
+  border: 2px solid #1a9e6b;
+  background: #eaf7f1;
+  text-decoration: none !important;
+  transition: background 0.15s ease, box-shadow 0.15s ease;
 
   &:hover {
     background: #f4fbf8;
-    border-color: #d4ede3;
+    box-shadow: 0 4px 16px rgba(26, 158, 107, 0.12);
     text-decoration: none;
 
     .project-card__title { color: $primary-color; }
-    .project-card__arrow { transform: translateX(5px); color: $primary-color; }
-  }
-
-  &__number {
-    font-size: 2.8em;
-    font-weight: 700;
-    color: #d4ede3;
-    line-height: 1;
-    min-width: 2.2rem;
-    flex-shrink: 0;
-    font-family: $sans-serif;
-    letter-spacing: -0.02em;
   }
 
   &__body {
@@ -51,6 +38,7 @@
     color: $gray;
     line-height: 1.5;
     margin-bottom: 0.6em;
+    text-decoration: none !important;
   }
 
   &__tags {
@@ -70,10 +58,4 @@
     letter-spacing: 0.02em;
   }
 
-  &__arrow {
-    font-size: 1.3em;
-    color: $light-gray;
-    transition: transform 0.15s ease, color 0.15s ease;
-    flex-shrink: 0;
-  }
 }

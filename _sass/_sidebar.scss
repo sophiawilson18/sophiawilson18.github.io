@@ -72,7 +72,7 @@
 .author__avatar img {
   @include breakpoint($large) {
     padding: 0 !important;
-    border-color: $primary-color !important;
+    border-color: $dark-gray !important;
   }
 }
 
