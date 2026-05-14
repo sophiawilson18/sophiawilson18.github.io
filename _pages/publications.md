@@ -10,25 +10,19 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Sustainable / Ressource-Efficient Machine Learning
----
-<ol>
+## Sustainable / Resource-Efficient Machine Learning
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'ml' %}
-     <li> {% include archive-single.html %} </li>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</ol>
 
 
 ## Astrophysics and Cosmology
----
-<ol>
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'astro' %}
-     <li> {% include archive-single.html %} </li>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</ol>
-
-

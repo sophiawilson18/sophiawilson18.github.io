@@ -1,20 +1,25 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {{post.authbefore}} <b>S. N. Wilson</b>{{post.authafter}}. <i>{{title}}.</i> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-    (<a href="{{ post.paperurl }}">link</a>) (<a href="{{ post.pdf }}">pdf</a>)
-  </article>
+{% if post.venue_short %}
+  {% assign venue_display = post.venue_short %}
+{% else %}
+  {% assign venue_display = post.venue %}
+{% endif %}
+
+<div class="pub-entry">
+  <div class="pub-header">
+    <a class="pub-title" href="{{ post.paperurl }}">{{ title }}</a>
+    <span class="pub-venue-badge">{{ venue_display }}</span>
+  </div>
+  <div class="pub-authors">{{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }} &middot; {{ post.date | default: "1900-01-01" | date: "%Y" }}</div>
+  <div class="pub-links">
+    {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}">Link</a>{% endif %}
+    {% if post.pdf %}<a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}
+  </div>
 </div>

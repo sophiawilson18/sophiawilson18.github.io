@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2025-01-01-trading-carbon-for-physics
 date: 2025-01-01
 venue: 'arXiv'
+venue_short: 'arXiv'
 pubtype: 'ml'
 paperurl: https://arxiv.org/abs/2509.24517
 pdf: /publications/files/trading-carbon-for-physics.pdf

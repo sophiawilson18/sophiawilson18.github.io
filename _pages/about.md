@@ -11,7 +11,7 @@ I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Depa
 
 I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
-<p class="keywords" markdown="1">**Keywords: Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
+<p class="keywords" markdown="1"><b>Keywords:</b> **Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
 
 
