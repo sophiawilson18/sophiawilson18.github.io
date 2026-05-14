@@ -59,3 +59,59 @@
   }
 
 }
+
+// Hyper-datafication news tracker
+.news-tracker {
+  margin-top: 1.5em;
+}
+
+.news-item {
+  padding: 1.4em 0;
+  border-bottom: 1px solid #d4edda;
+
+  &:first-child { padding-top: 0; }
+  &:last-child { border-bottom: none; }
+
+  h3 {
+    font-size: 1.05em;
+    font-weight: 600;
+    margin-bottom: 0.2em;
+    margin-top: 0;
+    line-height: 1.4;
+  }
+
+  p {
+    font-size: 0.92em;
+    line-height: 1.65;
+    color: #444;
+    margin-top: 0.6em;
+    margin-bottom: 0;
+  }
+}
+
+.news-source {
+  display: inline-block;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #1a9e6b;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+  &:hover {
+    color: #2d6a4f;
+    text-decoration: underline;
+  }
+}
+
+.page__content blockquote {
+  border-left: 3px solid #1a9e6b;
+  background: #eaf7f1;
+  margin: 1.4em 0;
+  padding: 0.9em 1.2em;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: #2d4a3a;
+
+  p { margin: 0; }
+}
