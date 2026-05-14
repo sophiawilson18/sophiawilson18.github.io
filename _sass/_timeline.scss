@@ -1,0 +1,53 @@
+.timeline {
+  position: relative;
+  padding-left: 1.75em;
+  border-left: 2px solid #1a9e6b;
+  margin-top: 0.5em;
+
+  p {
+    position: relative;
+    margin-bottom: 1.25em;
+    padding: 0.4em 0.6em;
+    border-radius: 4px;
+    transition: background 0.15s ease;
+
+    &:hover {
+      background: #f4fbf8;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: -2.05em;
+      top: 0.9em;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: #1a9e6b;
+      border: 2px solid #fff;
+      box-shadow: 0 0 0 2px #1a9e6b;
+    }
+
+    strong:first-child {
+      flex-shrink: 0;
+      display: inline-block;
+      background: #eaf7f1;
+      color: #2d6a4f;
+      padding: 0.1em 0.55em;
+      border-radius: 4px;
+      font-family: "Inter", sans-serif;
+      font-size: 0.82em;
+      font-weight: 600;
+      letter-spacing: 0.02em;
+    }
+  }
+}
+
+.venue {
+  font-weight: 600;
+  color: #1a9e6b;
+}
+
+.keywords strong {
+  color: #1a9e6b;
+}

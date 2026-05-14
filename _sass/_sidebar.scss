@@ -69,6 +69,13 @@
    Author profile and links
    ========================================================================== */
 
+.author__avatar img {
+  @include breakpoint($large) {
+    padding: 0 !important;
+    border-color: $dark-gray !important;
+  }
+}
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;

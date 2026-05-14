@@ -1,35 +1,24 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
-{% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
+{% if post.venue_short %}
+  {% assign venue_display = post.venue_short %}
+{% else %}
+  {% assign venue_display = post.venue %}
+{% endif %}
 
-    <!--    <a href="{{ base_path }}{{ post.url }}">{{ title }}</a><br> -->
-        {{post.authbefore}} <b>S. N. Wilson</b>{{post.authafter}}. <i>{{title}}.</i> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
-    (<a href=" {{ post.paperurl }} ">link</a>)  (<a href=" {{ post.pdf }} ">pdf</a>) <br>
-    <!--    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: <p> | remove: </p>}}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p> -->
-  
-  </article>
+<div class="pub-entry">
+  <a class="pub-title" href="{{ post.paperurl }}">{{ title }}</a>
+  <div class="pub-meta">
+    {{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }}
+    &middot; {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    &middot; <span class="pub-venue-badge">{{ venue_display }}</span>
+    {% if post.paperurl %}&middot; <a class="pub-link" href="{{ post.paperurl }}">Link</a>{% endif %}
+    {% if post.pdf %}&middot; <a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}
+  </div>
 </div>

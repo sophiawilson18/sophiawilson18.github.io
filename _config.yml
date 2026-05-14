@@ -22,11 +22,17 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-ZTRQ7QTDPB"
+    anonymize_ip: false
+
 # Site Author
 author:
   name             : "Sophia N. Wilson"
   avatar           : "sw.png"
-  bio              : "PhD student @ SAINTS Lab, University of Copenhagen" 
+  bio              : "PhD Fellow @ SAINTS Lab, University of Copenhagen"
   employer         : 
   location         : "Copenhagen, Denmark"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -122,6 +128,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 
 # Defaults
@@ -142,6 +151,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
 # Sass/SCSS
 sass:
   sass_dir: _sass

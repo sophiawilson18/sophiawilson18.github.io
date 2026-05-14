@@ -11,4 +11,7 @@ main:
 
   - title: "Projects"
     url: /projects/
+    children:
+      - title: "Hyper-Datafication"
+        url: /projects/hyper-datafication/
     

@@ -6,6 +6,7 @@ collection: publications
 permalink: /publication/2020-01-01-spectroscopic-classification
 date: 2020-01-01
 venue: 'Astronomy & Astrophysics 644 (2020): A17'
+venue_short: 'A&A 2020'
 pubtype: 'astro'
 paperurl: https://www.aanda.org/articles/aa/full_html/2020/12/aa39262-20/aa39262-20.html
 pdf: /publications/files/spectroscopic-classification.pdf

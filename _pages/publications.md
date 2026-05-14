@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications of Sophia N. Wilson"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,25 +10,19 @@ author_profile: true
 You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Sustainable / Ressource-Efficient Machine Learning
----
-<ol>
+## Sustainable AI and Resource-Efficient ML
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'ml' %}
-     <li> {% include archive-single.html %} </li>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</ol>
 
 
 ## Astrophysics and Cosmology
----
-<ol>
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'astro' %}
-     <li> {% include archive-single.html %} </li>
+    {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-</ol>
-
-
