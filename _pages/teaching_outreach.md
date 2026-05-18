@@ -33,9 +33,11 @@ redirect_from:
 
 <div class="timeline" markdown="1">
 
+**2026** Presentation of my FAccT paper at the Visual Computing Group Meeting at the Technical University of Denmark. 
+
 **2026** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society.
 
-**2026** *"The Case for Data Frugality in AI."* Presentation at the Embedded AI group meeting at the Technical University of Denmark.
+**2026** Presentation of my ICML paper at the Embedded AI Group Meeting at the Technical University of Denmark. 
 
 **2026** Presentation and panel discussion at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event at the Lund Stem Cell Center, Lund University.
 
