@@ -19,13 +19,13 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-05** Presentation of my FAccT paper at the Visual Computing Group Meeting at the Technical University of Denmark. 
+**2026-05** Presentation of the *Hyper-datafication paper* at the Visual Computing Group Meeting at the Technical University of Denmark. 
 
 **2026-05** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
 
 **2026-05** Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
 
-**2024-04** Presentation of my ICML paper at the Embedded AI Group Meeting at the Technical University of Denmark. 
+**2024-04** Presentation of the *Data Frugality paper* at the Embedded AI Group Meeting at the Technical University of Denmark. 
 
 **2026-04** Paper accepted to <span class="venue">ICML 2026</span>! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
