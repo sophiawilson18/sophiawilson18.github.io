@@ -14,8 +14,8 @@ This shift - from building models *from* data to actively *creating* data *for* 
 <div class="news-tracker">
 
 <div class="news-item">
-<h3>🧹📹 "Free" housecleaning in exchange for letting cleaners record your home</h3>  <a class="news-source" href="https://www.forbes.com/sites/johnkoetsier/2026/05/29/you-can-get-your-home-cleaned-for-free-if-you-let-robots-watch/">Forbes — May 2026</a>
-<p>The German start-up Shift <a href="https://www.shiftapp.nyc/">is offering free housecleaning in New York City in exchange for allowing cleaners to record the session from a first-person perspective, which will the be used to train humanoid robots. A telling sign of just how valuable robot training data has become.<p> 
+<h3>🧹📹 "Free" housecleaning in exchange for letting cleaners record your home</h3> <a class="news-source" href="https://www.forbes.com/sites/johnkoetsier/2026/05/29/you-can-get-your-home-cleaned-for-free-if-you-let-robots-watch/">Forbes — May 2026</a>
+<p>The German start-up <a href="https://www.shiftapp.nyc/">Shift</a> is offering free housecleaning in New York City in exchange for allowing cleaners to record the session from a first-person perspective, which will then be used to train humanoid robots. A telling sign of just how valuable robot training data has become.</p>
 </div>
 
 <div class="news-item">
