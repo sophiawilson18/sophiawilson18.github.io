@@ -22,13 +22,13 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-06** Going to the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada. 
 
-**2026-06** Panelist in the panel discussion on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Borholm, Denmark. 
-
 </div>
 
 ## Recent Activities 
 
 <div class="timeline" markdown="1">
+
+**2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
 **2026-05** Presentation of the *Hyper-datafication paper* at the Visual Computing Group Meeting at the Technical University of Denmark. 
 
