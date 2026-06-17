@@ -14,17 +14,17 @@ This shift - from building models *from* data to actively *creating* data *for* 
 <div class="news-tracker">
 
 <div class="news-item">
-<h3>🇮🇳🤳 No contracts and a two-thirds pay cut in less than two weeks for Bengaluru market vendors collecting AI training data</h3> <a class="news-source" href="https://www.youtube.com/watch?v=yT-iu1kovKg">Forbes — May 2026</a>
+<h3>🤳🇮🇳 No contracts and a two-thirds pay cut in less than two weeks for Bengaluru market vendors collecting AI training data</h3> <a class="news-source" href="https://www.youtube.com/watch?v=yT-iu1kovKg">Forbes — May 2026</a>
 <p>At the New Thippasandra market in Bengaluru, vendors are hired by companies such as <a href="https://www.instawork.com/">Instawork</a> to record egocentric video data for AI training. Workers report receiving no written contracts and only a verbal explanation of the arrangement. Within less than two weeks, pay reportedly dropped from 300 rupees (around USD 3) to 100 rupees (around USD 1) per hour without warning or explanation. Vendors are informed that the data may be used to train AI systems capable of performing tasks similar to their own. Yet for many, immediate financial necessity leaves little room to refuse work, even when they believe they may be helping to create systems that could eventually reduce demand for their labour.</p>
 </div>
 
 <div class="news-item">
-<h3>🧹📹 "Free" housecleaning in exchange for letting cleaners record your home</h3> <a class="news-source" href="https://www.forbes.com/sites/johnkoetsier/2026/05/29/you-can-get-your-home-cleaned-for-free-if-you-let-robots-watch/">Forbes — May 2026</a>
+<h3>🧹🇺🇸 "Free" housecleaning in exchange for letting cleaners record your home</h3> <a class="news-source" href="https://www.forbes.com/sites/johnkoetsier/2026/05/29/you-can-get-your-home-cleaned-for-free-if-you-let-robots-watch/">Forbes — May 2026</a>
 <p>The German start-up <a href="https://www.shiftapp.nyc/">Shift</a> is offering free housecleaning in New York City in exchange for allowing cleaners to record the session from a first-person perspective, which will then be used to train humanoid robots. A telling sign of just how valuable robot training data has become.</p>
 </div>
 
 <div class="news-item">
-<h3>🫆🖥️ Meta logs employee keystrokes for AI training</h3> <a class="news-source" href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">Reuters — April 2026</a>
+<h3>🫆🇺🇸 Meta logs employee keystrokes for AI training</h3> <a class="news-source" href="https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/">Reuters — April 2026</a>
 <p>Meta is installing tracking software on US employees' computers to capture mouse movements, clicks, keystrokes, and occasional screenshots, feeding the data directly into their AI agent training pipeline. <a href="https://www.bbc.com/news/articles/cvglyklz49jo">A spokesperson from Meta</a> told the BBC that the sole purpose of the data collection is to train agents to perform computer-based tasks. In this way, employees' everyday work has become AI training data.</p>
 </div>
 
