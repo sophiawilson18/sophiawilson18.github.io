@@ -13,20 +13,22 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <p class="keywords" markdown="1"><b>Keywords:</b> **Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
-
+<!--
 ## Upcoming Activities 
+
+<div class="timeline" markdown="1">
+
+
+</div>
+-->
+
+## Recent Activities 
 
 <div class="timeline" markdown="1">
 
 **2026-08** Attending the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro. 
 
 **2026-06** Going to the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada. 
-
-</div>
-
-## Recent Activities 
-
-<div class="timeline" markdown="1">
 
 **2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
