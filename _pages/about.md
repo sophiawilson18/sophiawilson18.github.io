@@ -26,9 +26,9 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-08** Attending the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro. 
+**2026-08** Attended the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro. 
 
-**2026-06** Going to the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada. 
+**2026-06** Attended the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada, and presented [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://dl.acm.org/doi/10.1145/3805689.3812393). 
 
 **2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
