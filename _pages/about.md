@@ -26,7 +26,7 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-08** Paper accepted to <span class="venue">ECCV Limit Workshop 2026</span>! 
+**2026-08** Paper accepted to <span class="venue">ECCV, Limit Workshop, 2026</span>! 
 
 **2026-08** Attended the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro, and won the <span class="venue">Best Poster Award</span>!
 
