@@ -26,19 +26,17 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-08** Attended the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro. 
+**2026-08** Paper accepted to <span class="venue">ECCV Limit Workshop 2026</span>! 
+
+**2026-08** Attended the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro, and won the <span class="venue">Best Poster Award</span>!
 
 **2026-06** Attended the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada, and presented [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://dl.acm.org/doi/10.1145/3805689.3812393). 
 
 **2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
-**2026-05** Presentation of the *Hyper-datafication paper* at the Visual Computing Group Meeting at the Technical University of Denmark. 
-
 **2026-05** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
 
 **2026-05** Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
-
-**2024-04** Presentation of the *Data Frugality paper* at the Embedded AI Group Meeting at the Technical University of Denmark. 
 
 **2026-04** Paper accepted to <span class="venue">ICML 2026</span>! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
@@ -50,21 +48,23 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-02** Guest-lecturing on *"AI, Resource Use, and Sustainability"* at Københavns Professionshøjskole. 
 
-**2026-02** Participated in <span class="venue">MLSS 2025</span> in Melbourne, Australia, where I presented my work on sustainability costs of hyper-datafication. 
+**2026-02** Participated in <span class="venue">MLSS 2026</span> in Melbourne, Australia. 
 
-**2025-12** [Interviewed by Kvinder i Fysik](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/) about my transition from physics studies to research in sustainable AI.
-
-**2025-09** Preprint: [Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
-
-**2025-09** Workshop at Det Åbne Gymnasium on *"Energy Consumption and Carbon Foorpint of (Gen)AI"* as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
-
-**2025-08** Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
-
-**2025-08** Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
+**2025-12** [Interviewed by Kvinder i Fysik](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/) about my shift from Physics to Computer Science. 
 
 </div>
 
+
 <!--
+**2026-05** Presentation of the *Hyper-datafication paper* at the Visual Computing Group Meeting at the Technical University of Denmark. 
+**2024-04** Presentation of the *Data Frugality paper* at the Embedded AI Group Meeting at the Technical University of Denmark. 
+
+**2025-09** Preprint: [Trading Carbon for Physics: On the Resource Efficiency of Machine Learning for Spatio-Temporal Forecasting](https://arxiv.org/abs/2509.24517) on arXiv. 
+**2025-09** Workshop at Det Åbne Gymnasium on *"Energy Consumption and Carbon Foorpint of (Gen)AI"* as part of the [National Climate Action Day](https://gymnasieskolernesklimaalliance.dk/national-klimahandledag/) for Gymnasiums.
+**2025-08** Attended the decennial [Aarhus 2025 Conference](https://aarhus2025.org/) and the [D3A Conference](https://d3aconference.dk/) where I presented my Master's thesis work on carbon-efficient physics-informed ML (poster, oral presentation).
+**2025-08** Started my PhD at the SAINTS Lab, Department of Computer Science, UCPH.
+
+
 **2025-05** Master’s thesis titled 'Quantifying the Reduction in Carbon Footprint of Physics-Informed Machine Learning' successfully defended.
 **2025-05** "Physics-Informed Machine Learning as a Carbon-Efficient Approach". Guest presentation at PhD course on Machine Learning for Sciences, UCPH.
 **2025-05** "Hvordan er det at læse fysik på universitetet?". Outreach talks at Falkonergårdens Gymnasium.  
@@ -73,8 +73,6 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 **2024-10** Participated in the AI Structured Learning 2024 Workshop in Göteborg.
 **2024-08** Attended the Hamlet-Physics 2024 Conference in Copenhagen.
 **2024-06** Completed an exchange semester at the Insitute of Physics, University of Amsterdam.
-
-
 
 * **2023-05** First-author paper published in [Astronomy & Astrophysics](https://www.aanda.org/articles/aa/pdf/2024/05/aa46878-23.pdf) on calibrating far-infrared oxygen emission lines to estimate hydrogen gas masses in high-redshift galaxies.
 * **2022-08** Attended the Astromatic Summer School at the University of Montreal.
