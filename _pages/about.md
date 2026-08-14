@@ -26,11 +26,11 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-08** Paper accepted to <span class="venue">ECCV, Limit Workshop, 2026</span>! 
+**2026-08** Paper accepted to <span class="venue">ECCV, Limit Workshop, 2026</span>! See preprint on arXiv: [Performance-Carbon Trade-Offs across Architectural Biases in Shear Flow Forecasting](https://arxiv.org/abs/2509.24517). 
 
 **2026-08** Attended the [Eastern European Machine Learning Summer School 2026](https://www.eeml.eu/), Cetinje, Montenegro, and won the <span class="venue">Best Poster Award</span>!
 
-**2026-06** Attended the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada, and presented [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://dl.acm.org/doi/10.1145/3805689.3812393). 
+**2026-06** Presented our paper [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://dl.acm.org/doi/10.1145/3805689.3812393) at the [ACM Conference on Fairness, Accountability, and Transparency (FAccT) 2026](https://facctconference.org/2026/acceptedpapers.html), Montréal, Canada.  
 
 **2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
@@ -42,13 +42,13 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2024-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
 
-**2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
+**2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
 
 **2026-03** Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/); a half day workshop on Sustainable AI for Sciences. 
 
 **2026-02** Guest-lecturing on *"AI, Resource Use, and Sustainability"* at Københavns Professionshøjskole. 
 
-**2026-02** Participated in <span class="venue">MLSS 2026</span> in Melbourne, Australia. 
+**2026-02** Attended the [Machine Learning Summer School 2026](https://www.mlss-melbourne.com/), Melbourne, Australia. 
 
 **2025-12** [Interviewed by Kvinder i Fysik](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/) about my shift from Physics to Computer Science. 
 
