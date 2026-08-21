@@ -13,14 +13,21 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <p class="keywords" markdown="1"><b>Keywords:</b> **Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
-<!--
+
 ## Upcoming Activities 
 
 <div class="timeline" markdown="1">
 
+**2026-11** Giving a joint talk on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) with Emil Njor at the <span class="venue">Digital Tech Summit, 2026</span>. 
+
+**2026-10** Co-organising the Deep Dive Workshop on [Resource-Aware & Constrained AI](https://d3aconference.dk/resource-aware-constrained-ai/) at <span class="venue">D3A, 2026</span>. 
+
+**2026-09** Giving a talk on **Assessing Sustainabaility in AI** at the <span class="venue">High Energy Physics Software Foundation Seminars</span>. [Join here!](https://indico.cern.ch/event/1689368/)
+
+**2026-09** Presenting a webinar on **Sustainable AI: what are the challenges and how do we overcome them?** at the <span class="venue">Center for AI, DMJX</span>. [Sign up here!](https://ai-center.dk/events/baeredygtig-ai-hvad-er-udfordringerne-og-hvordan-loeser-vi-dem/)
 
 </div>
--->
+
 
 ## Recent Activities 
 
