@@ -26,7 +26,6 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-09** Participating in **Verden Forsøgt Forklaret** on 17/9, where I'll be talking with journalist Mette Holdbæk about AI data workers, their working conditions, and hyper-datafication more broadly. [Read about the event and buy a ticket here!](https://billetto.dk/e/ai-ulighed-hvem-hoster-gevinsten-hvem-betaler-prisen-billetter-1986257)
 
-**2026-09** Presenting a webinar on **Sustainable AI: what are the challenges and how do we overcome them?** on 4/9 at the <span class="venue">Center for AI, DMJX</span>. [Sign up here!](https://ai-center.dk/events/baeredygtig-ai-hvad-er-udfordringerne-og-hvordan-loeser-vi-dem/)
 
 </div>
 
@@ -34,6 +33,8 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 ## Recent Activities 
 
 <div class="timeline" markdown="1">
+
+**2026-09** Presented a webinar titled **Bæredygtig AI: udfordringer og løsninger** (Danish) at the <span class="venue">Center for AI, DMJX</span>. [Watch the recording here!](https://events.teams.microsoft.com/event/6c3ed9e6-5b9f-41bf-aeab-31ee4b720418@81c2b6a0-e9b7-4f70-9998-eb5dfe942264?vod&attendeeId=31409bf9-a2cc-4466-8139-5affc76e4ecd&source=email)
 
 **2026-08** Paper accepted to <span class="venue">ECCV, Limit Workshop, 2026</span>! See preprint on arXiv: [Performance-Carbon Trade-Offs across Architectural Biases in Shear Flow Forecasting](https://arxiv.org/abs/2509.24517). 
 
