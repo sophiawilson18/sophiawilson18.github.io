@@ -44,15 +44,11 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-06** Panelist in the UCPH panel on [Love, Climate Crises, and AI](https://program.folkemoedet.dk/events/2026/32746/kaerlighed-klimakrise-og-kunstig-intelligens) at the Folkemødet ("The People's Meeting"), Bornholm, Denmark. 
 
-**2026-05** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
-
 **2026-05** Speaker at the [P1 Workshop on Green AI](https://www.aicentre.dk/events/20260508-p1-programs-workshop-green-ai). 
 
 **2026-04** Paper accepted to <span class="venue">ICML 2026</span>! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
 **2024-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
-
-**2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
 
 **2026-03** Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/); a half day workshop on Sustainable AI for Sciences. 
 
@@ -66,6 +62,10 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 
 <!--
+**2026-05** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
+
+**2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
+
 **2026-05** Presentation of the *Hyper-datafication paper* at the Visual Computing Group Meeting at the Technical University of Denmark. 
 **2024-04** Presentation of the *Data Frugality paper* at the Embedded AI Group Meeting at the Technical University of Denmark. 
 
