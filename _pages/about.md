@@ -20,6 +20,8 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-11** Giving a joint talk on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) on 4/11 with Emil Njor at the <span class="venue">Digital Tech Summit, 2026</span>. 
 
+**2026-10** Giving a talk on **Hyper-datafication and its Environmental, Social, and Economic Costs** at [Brandenburgisches Zentrum für Medienwissenschaften, Potsdam, Germany](https://www.zem-brandenburg.de/veranstaltungen/hyper-datafication-and-its-environmental-social-and-economic-costs-von-sophia-n-wilson/) on 22/10. 
+
 **2026-10** Co-organising the Deep Dive Workshop on [Resource-Aware & Constrained AI](https://d3aconference.dk/resource-aware-constrained-ai/) on 8/10 at <span class="venue">D3A, 2026</span>. 
 
 **2026-09** Giving a talk on **Assessing Sustainabaility in AI** on 30/9 at the <span class="venue">High Energy Physics Software Foundation Seminars</span>. [Join here!](https://indico.cern.ch/event/1689368/)
@@ -48,7 +50,7 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-04** Paper accepted to <span class="venue">ICML 2026</span>! See preprint on arXiv: [Stop Preaching and Start Practising Data Frugality for Responsible Development of AI](https://arxiv.org/abs/2602.19789).
 
-**2024-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
+**2026-04** Invited speaker and panelist at the [Sustainable AI in Practice](https://www.lu.se/evenemang/sustainable-ai-practice-computational-costs-real-world-impacts) event hosted by the Lund Stem Cell Center at Lund University. 
 
 **2026-03** Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/); a half day workshop on Sustainable AI for Sciences. 
 
