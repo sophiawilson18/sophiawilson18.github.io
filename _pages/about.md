@@ -33,8 +33,9 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
-**2026-09** Interviewed by journalist Mette Holdbæk about AI data workers, their working conditions, and hyper-datafication more broadly in **Verden Forsøgt Forklaret**. 
+**2026-09** Interviewed by journalist Mette Holdbæk about AI data workers, their working conditions, and hyper-datafication more broadly in **Verden Forsøgt Forklaret**. [Link to podcast episode](https://open.spotify.com/episode/7wsAAKJJaPAr6avWYEUfF3?si=dee33aab14d1460b). 
 
+**2026-09** Interviewed by Uniavisen. [Link to article](https://uniavisen.dk/forsker-ai-bliver-aldrig-en-baeredygtig-teknologi/). 
 
 **2026-09** Presented a webinar titled **Bæredygtig AI: udfordringer og løsninger** (Danish) at the <span class="venue">Center for AI, DMJX</span>. [Watch the recording here!](https://events.teams.microsoft.com/event/6c3ed9e6-5b9f-41bf-aeab-31ee4b720418@81c2b6a0-e9b7-4f70-9998-eb5dfe942264?vod&attendeeId=31409bf9-a2cc-4466-8139-5affc76e4ecd&source=email)
 
