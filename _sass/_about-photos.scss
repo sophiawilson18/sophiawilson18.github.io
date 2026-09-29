@@ -21,7 +21,8 @@
   @include breakpoint($x-large) {
     flex: 0 0 220px;
     grid-template-columns: 1fr;
-    margin-top: 0;
+    /* Line up with the rule under the first h2: (2em margin + 1.2 line-height + 0.5em padding) x 1.25em h2 size, plus the 1px border */
+    margin-top: calc(4.625em + 1px);
   }
 
   figure {
