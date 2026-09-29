@@ -97,10 +97,6 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
     <img src="/images/about/mlss.jpg" alt="With my poster at MLSS 2026" loading="lazy">
     <figcaption><span class="photo-date">2026-02</span> Poster session at MLSS 2026 in Melbourne, Australia.</figcaption>
   </figure>
-  <figure>
-    <img src="/images/about/eurips2025.jpg" alt="Giving a talk on data frugality at EurIPS 2025" loading="lazy">
-    <figcaption><span class="photo-date">2025-12</span> Presenting work on data frugality at EurIPS 2025.</figcaption>
-  </figure>
 </aside>
 </div>
 
