@@ -51,3 +51,8 @@
 .keywords strong {
   color: #2d6a4f;
 }
+
+/* Bold highlights in the activity lists use the link colour (date labels keep their own style) */
+.timeline strong {
+  color: #1a9e6b;
+}
