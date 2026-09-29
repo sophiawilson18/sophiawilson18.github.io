@@ -58,11 +58,7 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 **2026-03** Co-organiser and moderator of the [SAINTS’26 workshop](https://saintslab.github.io/workshop2026/), a half-day workshop on Sustainable AI for Sciences. 
 
-**2026-02** Guest lecture on **AI, Resource Use, and Sustainability** at <span class="venue">Københavns Professionshøjskole</span>. 
 
-**2026-02** Attended the [Machine Learning Summer School 2026](https://www.mlss-melbourne.com/) in Melbourne, Australia. 
-
-**2025-12** Interviewed by <span class="venue">Kvinder i Fysik</span> about [my shift from Physics to Computer Science](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/). 
 
 </div>
 
@@ -76,10 +72,6 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
   <figure>
     <img src="/images/about/verden-forsoegt-forklaret.jpg" alt="Recording of the podcast Verden Forsøgt Forklaret" loading="lazy">
     <figcaption><span class="photo-date">2026-09</span> Podcast interview about hyper-datafication on <i>Verden Forsøgt Forklaret</i>.</figcaption>
-  </figure>
-  <figure>
-    <img src="/images/about/eeml4.jpg" alt="Holding the EEML Best Poster Award certificate" loading="lazy">
-    <figcaption><span class="photo-date">2026-08</span> Best Poster Award at EEML 2026, Cetinje, Montenegro.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/eeml2.jpg" alt="Discussing my poster at EEML 2026" loading="lazy">
@@ -102,6 +94,12 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 
 <!--
+**2026-02** Guest lecture on **AI, Resource Use, and Sustainability** at <span class="venue">Københavns Professionshøjskole</span>. 
+
+**2026-02** Attended the [Machine Learning Summer School 2026](https://www.mlss-melbourne.com/) in Melbourne, Australia. 
+
+**2025-12** Interviewed by <span class="venue">Kvinder i Fysik</span> about [my shift from Physics to Computer Science](https://kvinderifysik.dk/2025/12/15/interview-with-sophia-wilson/). 
+
 **2026-05** *"On the Challenges in Assessing the Sustainability of AI."* Joint presentation with Raghav Selvan at AI and Sustainability Workshop by the Tech Policy Youth Committee, The National Center for AI in Society. 
 
 **2026-04** Paper accepted to <span class="venue">FAccT 2026</span>! See preprint on arXiv: [How Hyper-Datafication Impacts the Sustainability Costs in Frontier AI](https://arxiv.org/abs/2602.00056). 
