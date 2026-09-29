@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-<div class="about-layout">
-<div class="about-main" markdown="1">
-
 I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of artificial intelligence (AI), data, and sustainability, with a focus on how AI systems can be designed to be environmentally sustainable. My research interests include data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
 
 I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
 <p class="keywords" markdown="1"><b>Keywords:</b> **Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
+
+<div class="about-layout">
+<div class="about-main" markdown="1">
 
 ## Upcoming Activities 
 
@@ -71,23 +71,23 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 <aside class="about-photos">
   <figure>
     <img src="/images/about/eccv2026.jpg" alt="Presenting my poster at ECCV 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-09</span> With my poster at the ECCV 2026 Limit Workshop.</figcaption>
+    <figcaption><span class="photo-date">2026-09</span> Presenting my poster at ECCV 2026 Limit Workshop, Malmö, Sweden.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/verden-forsoegt-forklaret.jpg" alt="Recording of the podcast Verden Forsøgt Forklaret" loading="lazy">
-    <figcaption><span class="photo-date">2026-09</span> Talking hyper-datafication on <i>Verden Forsøgt Forklaret</i>.</figcaption>
+    <figcaption><span class="photo-date">2026-09</span> Podcast interview about hyper-datafication on <i>Verden Forsøgt Forklaret</i>.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/eeml4.jpg" alt="Holding the EEML Best Poster Award certificate" loading="lazy">
-    <figcaption><span class="photo-date">2026-08</span> Best Poster Award at EEML 2026 in Cetinje, Montenegro.</figcaption>
+    <figcaption><span class="photo-date">2026-08</span> Best Poster Award at EEML 2026, Cetinje, Montenegro.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/eeml2.jpg" alt="Discussing my poster at EEML 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-08</span> Discussing our data frugality poster at EEML 2026.</figcaption>
+    <figcaption><span class="photo-date">2026-08</span> Discussing our data frugality poster at EEML 2026, Cetinje, Montenegro.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/faact2-2026.jpg" alt="Presenting on stage at FAccT 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-06</span> Presenting our hyper-datafication paper at FAccT 2026 in Montréal.</figcaption>
+    <figcaption><span class="photo-date">2026-06</span> Presenting the hyper-datafication paper at FAccT 2026 in Montréal, Canada.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/folkemoede2026.jpg" alt="Panel debate in the University of Copenhagen tent at Folkemødet 2026" loading="lazy">
@@ -95,11 +95,11 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
   </figure>
   <figure>
     <img src="/images/about/mlss.jpg" alt="With my poster at MLSS 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-02</span> Poster session at MLSS 2026 in Melbourne.</figcaption>
+    <figcaption><span class="photo-date">2026-02</span> Poster session at MLSS 2026 in Melbourne, Australia.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/eurips2025.jpg" alt="Giving a talk on data frugality at EurIPS 2025" loading="lazy">
-    <figcaption><span class="photo-date">2025-12</span> Talking about data frugality at EurIPS 2025.</figcaption>
+    <figcaption><span class="photo-date">2025-12</span> Presenting work on data frugality at EurIPS 2025.</figcaption>
   </figure>
 </aside>
 </div>
