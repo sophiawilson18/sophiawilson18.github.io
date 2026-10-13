@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [SAINTS Lab](https://saintslab.github.io/) in the Department of Computer Science at the University of Copenhagen (UCPH). My work sits at the intersection of artificial intelligence (AI), data, and sustainability, with a focus on how AI systems can be designed to be environmentally sustainable. My research interests include data- and resource-efficient machine learning, examining how choices across the data and model lifecycle shape energy use, carbon emissions, and broader societal impact. I am supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en).
+I am a PhD candidate at the [SAINTS Lab](https://saintslab.github.io/) at the Department of Computer Science at the University of Copenhagen (UCPH), supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en) and funded by the Independent Research Fund Denmark. My PhD work revolves around the sustainability of “hyperdatafication” in AI, which is a phenomenon describing the industrialised production and accumulation of data for developing AI models (see more in Wilson et al., FAccT, 2026). My work seeks to address this by identifying its costs, including environmental impacts, economic inequality, and social harms, specifically the working conditions experienced by data workers.
 
-I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
+**I am currently a visiting researcher at Samsung (October 2026 – March 2027), where I work on profiling resource consumption and hardware utilisation of agentic AI systems on edge devices.**
+
+I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
 <p class="keywords" markdown="1"><b>Keywords:</b> **Sustainable, resource-efficient, frugal, and responsible AI and data practices**.</p>
 
@@ -21,13 +23,13 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 
 <div class="timeline" markdown="1">
 
+
+**2026-11** Giving a talk on [AI - det koster på klimaet](https://www.hk.dk/aktuelt/kalender/D2292277026?_gl=1*uf0a5t*_up*MQ..*_ga*OTU5MDIzODk0LjE3OTE4OTY0MDI.*_ga_G0Z0D516FR*czE3OTE4OTY0MDEkbzEkZzAkdDE3OTE4OTY0MDEkajYwJGwwJGgw) at the <span class="venue">HK TechWeek 2026</span> on 17/11. 
+
 **2026-11** Giving a joint talk with Emil Njor on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) at the <span class="venue">Digital Tech Summit 2026</span> on 4/11. 
 
 **2026-10** Giving a talk on [Hyper-datafication and its Environmental, Social, and Economic Costs](https://www.zem-brandenburg.de/veranstaltungen/hyper-datafication-and-its-environmental-social-and-economic-costs-von-sophia-n-wilson/) at the <span class="venue">Brandenburgisches Zentrum für Medienwissenschaften</span>, Potsdam, Germany, on 22/10. 
 
-**2026-10** Co-organising the Deep Dive Workshop on [Resource-Aware & Constrained AI](https://d3aconference.dk/resource-aware-constrained-ai/) at <span class="venue">D3A 2026</span> on 8/10. 
-
-**2026-09** Giving a talk on [Assessing Sustainability in AI](https://indico.cern.ch/event/1689368/) at the <span class="venue">High Energy Physics Software Foundation Seminars</span> on 30/9. 
 
 </div>
 
@@ -35,6 +37,12 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 ## Recent Activities 
 
 <div class="timeline" markdown="1">
+
+**2026-10** Attended the [AAAI/ACM Conference on AI, Ethics, and Society](https://www.aies-conference.com/2026/) in Malmö, Sweden, sat on the **Responsible AI Student Panel**, and presented ongoing work on egocentric data collection and annotation. 
+
+**2026-10** Attended [D3A 4.0](https://d3aconference.dk/) in Nyborg, Denmark, and won the **Jury's Best Poster Award**! Also, co-organised the Deep Dive Workshop on [Resource-Aware & Constrained AI](https://d3aconference.dk/resource-aware-constrained-ai/) at <span class="venue">D3A 2026</span>. 
+
+**2026-09** Presented a webinar on [Assessing Sustainability of AI](https://indico.cern.ch/event/1689368/) at the <span class="venue">High Energy Physics Software Foundation Seminars</span>. 
 
 **2026-09** Interviewed by journalist Mette Holdbæk in the podcast [Verden Forsøgt Forklaret](https://open.spotify.com/episode/7wsAAKJJaPAr6avWYEUfF3?si=dee33aab14d1460b) about AI data workers, their working conditions, and hyper-datafication more broadly. 
 
@@ -65,6 +73,10 @@ I hold a MSc degree in Computational Physics from the Niels Bohr Institute, UCPH
 </div>
 
 <aside class="about-photos">
+  <figure>
+    <img src="/images/about/aies2026.jpg" alt="Panel AIES 2026" loading="lazy">
+    <figcaption><span class="photo-date">2026-09</span> Participating in the Responsible AI panel at AIES 2026, Malmö, Sweden.</figcaption>
+  </figure>
   <figure>
     <img src="/images/about/eccv2026.jpg" alt="Presenting my poster at ECCV 2026" loading="lazy">
     <figcaption><span class="photo-date">2026-09</span> Presenting my poster at ECCV 2026 Limit Workshop, Malmö, Sweden.</figcaption>
