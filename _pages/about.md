@@ -101,10 +101,6 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
     <img src="/images/about/folkemoede2026.jpg" alt="Panel debate in the University of Copenhagen tent at Folkemødet 2026" loading="lazy">
     <figcaption><span class="photo-date">2026-06</span> Panel debate on love, climate crises, and AI at Folkemødet 2026.</figcaption>
   </figure>
-  <figure>
-    <img src="/images/about/mlss.jpg" alt="With my poster at MLSS 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-02</span> Poster session at MLSS 2026 in Melbourne, Australia.</figcaption>
-  </figure>
 </aside>
 </div>
 
