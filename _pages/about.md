@@ -75,11 +75,11 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
 <aside class="about-photos">
   <figure>
     <img src="/images/about/tv2.jpg" alt="Tv2" loading="lazy">
-    <figcaption><span class="photo-date">2026-09</span> On TV2 Kosmopol commenting on environmental impacts of data centres.</figcaption>
+    <figcaption><span class="photo-date">2026-10</span> On TV2 Kosmopol commenting on environmental impacts of data centres.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/aies2026.jpg" alt="Panel AIES 2026" loading="lazy">
-    <figcaption><span class="photo-date">2026-09</span> Participating in the Responsible AI panel at AIES 2026, Malmö, Sweden.</figcaption>
+    <figcaption><span class="photo-date">2026-10</span> Participating in the Responsible AI panel at AIES 2026, Malmö, Sweden.</figcaption>
   </figure>
   <figure>
     <img src="/images/about/eccv2026.jpg" alt="Presenting my poster at ECCV 2026" loading="lazy">
