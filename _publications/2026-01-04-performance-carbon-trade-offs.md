@@ -4,7 +4,7 @@ authbefore: ""
 authafter: ", J. H. Christensen, and R. Selvan"
 collection: publications
 permalink: /publication/2025-01-01-trading-carbon-for-physics
-date: 2026-01-04
+date: 2026-01-03
 venue: 'Proceedings of the 19th European Conference on Computer Vision (ECCV), LIMIT Workshop'
 venue_short: 'ECCV 2026, LIMIT Workshop'
 pubtype: 'ml'
