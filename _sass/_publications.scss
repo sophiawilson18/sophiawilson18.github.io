@@ -51,6 +51,112 @@
   }
 }
 
+/* Publication cards with poster thumbnails */
+.pub-card {
+  display: flex;
+  gap: 1.4em;
+  align-items: flex-start;
+  margin-bottom: 1.6em;
+  padding-bottom: 1.6em;
+  border-bottom: 1px solid $border-color;
+
+  &:last-of-type {
+    border-bottom: none;
+  }
+
+  .pub-title {
+    margin-top: 0.4em;
+    font-size: 1.08em;
+  }
+}
+
+.pub-card__poster {
+  position: relative;
+  flex: 0 0 150px;
+  display: block;
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  &:hover,
+  &:focus-visible {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+
+    .pub-card__poster-hint { opacity: 1; }
+  }
+}
+
+.pub-card__poster-hint {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 0.35em 0;
+  background: rgba(45, 106, 79, 0.9);
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-align: center;
+  text-transform: uppercase;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.pub-card__body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.pub-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  font-size: 0.8em;
+}
+
+.pub-status-badge {
+  display: inline-block;
+  border: 1px solid $primary-color;
+  color: $primary-color;
+  font-weight: 600;
+  padding: 0.05em 0.5em;
+  border-radius: 4px;
+}
+
+.pub-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1em;
+  margin-top: 0.6em;
+  font-size: 0.82em;
+}
+
+@media (max-width: 600px) {
+  .pub-card {
+    gap: 1em;
+  }
+
+  .pub-card__poster {
+    flex-basis: 90px;
+  }
+}
+
+.pub-section-note {
+  font-size: 0.87em;
+  color: $gray;
+}
+
 .teaching-section {
   p strong {
     display: inline-block;

@@ -12,9 +12,11 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 ## Sustainable AI and Resource-Efficient ML
 
+<p class="pub-section-note">Click a poster to view it in full.</p>
+
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'ml' %}
-    {% include archive-single.html %}
+    {% include archive-single-poster.html %}
   {% endif %}
 {% endfor %}
 

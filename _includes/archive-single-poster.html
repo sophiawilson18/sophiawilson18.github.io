@@ -1,0 +1,35 @@
+
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+{% if post.venue_short %}
+  {% assign venue_display = post.venue_short %}
+{% else %}
+  {% assign venue_display = post.venue %}
+{% endif %}
+
+{% assign title_url = post.paperurl | default: post.poster %}
+
+<article class="pub-card">
+  {% if post.poster_thumb %}
+  <a class="pub-card__poster" href="{{ post.poster }}" target="_blank" rel="noopener" aria-label="View poster: {{ post.title | escape }}">
+    <img src="{{ post.poster_thumb }}" alt="Poster for {{ post.title | escape }}" loading="lazy">
+    <span class="pub-card__poster-hint">View poster</span>
+  </a>
+  {% endif %}
+
+  <div class="pub-card__body">
+    <div class="pub-card__tags">
+      <span class="pub-venue-badge">{{ venue_display }}</span>
+      {% if post.status %}<span class="pub-status-badge">{{ post.status }}</span>{% endif %}
+    </div>
+    <a class="pub-title" href="{{ title_url }}">{{ title }}</a>
+    <div class="pub-meta">
+      {{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }}
+    </div>
+    <div class="pub-card__links">
+      {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}">Paper</a>{% endif %}
+      {% if post.pdf %}<a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}
+      {% if post.poster %}<a class="pub-link" href="{{ post.poster }}" target="_blank" rel="noopener">Poster</a>{% endif %}
+    </div>
+  </div>
+</article>
