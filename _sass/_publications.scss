@@ -1,3 +1,6 @@
+/* Publications: one typeface, two sizes (title / small), two weights (400 / 600) */
+$pub-small: 0.88em;
+
 .pub-entry {
   margin-bottom: 1.4em;
   padding-bottom: 1.4em;
@@ -10,12 +13,12 @@
 
 .pub-title {
   display: block;
-  font-size: 1.02em;
-  font-weight: 500;
-  color: $link-color;
+  font-size: 1.05em;
+  font-weight: 600;
+  color: $text-color;
   text-decoration: none;
   line-height: 1.4;
-  margin-bottom: 0.3em;
+  margin-bottom: 0.25em;
 
   &:hover {
     color: $primary-color;
@@ -24,30 +27,28 @@
 }
 
 .pub-meta {
-  font-size: 0.87em;
+  font-size: $pub-small;
   color: $gray;
   line-height: 1.6;
+
+  strong {
+    font-weight: 600;
+    color: $text-color;
+  }
 }
 
 .pub-venue-badge {
-  display: inline-block;
-  background: #eaf7f1;
-  color: #2d6a4f;
+  color: $primary-color;
   font-weight: 600;
-  padding: 0.1em 0.5em;
-  border-radius: 4px;
 }
 
 .pub-link {
   color: $primary-color;
-  font-weight: 600;
+  font-weight: 400;
   text-decoration: none;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
 
   &:hover {
-    color: mix(#000, $primary-color, 25%);
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
@@ -62,11 +63,6 @@
 
   &:last-of-type {
     border-bottom: none;
-  }
-
-  .pub-title {
-    margin-top: 0.4em;
-    font-size: 1.08em;
   }
 }
 
@@ -104,11 +100,8 @@
   padding: 0.35em 0;
   background: rgba(45, 106, 79, 0.9);
   color: #fff;
-  font-size: 0.7em;
-  font-weight: 600;
-  letter-spacing: 0.05em;
+  font-size: 0.75em;
   text-align: center;
-  text-transform: uppercase;
   opacity: 0;
   transition: opacity 0.2s ease;
 }
@@ -119,42 +112,48 @@
 }
 
 .pub-card__tags {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4em;
-  font-size: 0.8em;
-}
-
-.pub-poster-venue {
-  font-size: 0.85em;
-  color: #555;
-}
-
-.pub-award-badge {
-  display: inline-block;
-  margin-left: 0.3em;
-  background: #fff4d6;
-  color: #8a5a00;
-  font-weight: 600;
-  padding: 0.05em 0.5em;
-  border-radius: 4px;
+  font-size: $pub-small;
+  margin-bottom: 0.2em;
 }
 
 .pub-status-badge {
-  display: inline-block;
-  border: 1px solid $primary-color;
-  color: $primary-color;
+  color: $gray;
+
+  &::before {
+    content: "\00b7";
+    margin: 0 0.4em;
+  }
+}
+
+.pub-poster-venue {
+  font-size: $pub-small;
+  color: $gray;
+  margin-top: 0.15em;
+
+  strong {
+    font-weight: 400;
+    color: $text-color;
+  }
+}
+
+.pub-award-badge {
+  color: #9a6700;
   font-weight: 600;
-  padding: 0.05em 0.5em;
-  border-radius: 4px;
+
+  &::before {
+    content: "\00b7";
+    margin: 0 0.4em;
+    color: $gray;
+    font-weight: 400;
+  }
 }
 
 .pub-card__links {
   display: flex;
   flex-wrap: wrap;
   gap: 1.1em;
-  margin-top: 0.6em;
-  font-size: 0.82em;
+  margin-top: 0.5em;
+  font-size: $pub-small;
 }
 
 @media (max-width: 600px) {
@@ -168,23 +167,96 @@
 }
 
 .pub-section-note {
-  font-size: 0.87em;
+  font-size: $pub-small;
   color: $gray;
 }
 
-.teaching-section {
-  p strong {
-    display: inline-block;
-    color: $primary-color;
-    font-size: 0.95em;
-    font-weight: 600;
-    border-bottom: 1px solid $primary-color;
-    padding-bottom: 1px;
-    margin-top: 0.75em;
+/* Teaching page */
+.teach-heading {
+  display: inline-block;
+  color: $primary-color;
+  border-bottom: 2px solid #1a9e6b;
+  padding-bottom: 0.15em;
+  margin-bottom: 0.8em;
+}
+
+.teach-list {
+  list-style: none;
+  margin: 0 0 2em;
+  padding-left: 1.5em;
+  border-left: 2px solid #1a9e6b;
+}
+
+.teach-item {
+  position: relative;
+  display: flex;
+  gap: 1em;
+  align-items: baseline;
+  margin-bottom: 0.6em;
+  padding: 0.55em 0.7em;
+  border-radius: 6px;
+  transition: background 0.15s ease;
+
+  &:hover {
+    background: #f4fbf8;
   }
 
-  ul {
-    margin-top: 0.3em;
+  &::before {
+    content: '';
+    position: absolute;
+    left: -1.87em;
+    top: 1.05em;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #1a9e6b;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px #1a9e6b;
+  }
+}
+
+.teach-year {
+  flex: 0 0 5.4em;
+  white-space: nowrap;
+  text-align: center;
+  background: #eaf7f1;
+  color: $primary-color;
+  padding: 0.1em 0.5em;
+  border-radius: 4px;
+  font-size: 0.82em;
+  font-weight: 600;
+}
+
+.teach-body {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.teach-title {
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.teach-meta {
+  font-size: 0.88em;
+  color: $gray;
+  line-height: 1.5;
+  margin-top: 0.15em;
+}
+
+.teach-role {
+  color: $primary-color;
+  font-weight: 600;
+}
+
+@media (max-width: 600px) {
+  .teach-item {
+    flex-direction: column;
+    gap: 0.35em;
+  }
+
+  .teach-year {
+    flex-basis: auto;
   }
 }
 
@@ -233,4 +305,16 @@
   color: $primary-color;
   font-weight: 600;
   box-shadow: inset 0 -2px 0 $primary-color;
+}
+
+/* Override the archive layout's blanket link underline */
+.archive {
+  .pub-title,
+  .pub-link {
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
