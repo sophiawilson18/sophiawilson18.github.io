@@ -1,4 +1,5 @@
-/* Publications: one typeface, two sizes (title / small), two weights (400 / 600) */
+/* Publications: one typeface, two sizes (title / small), two weights (400 / 600),
+   three colours (dark title, gray text, green accents) */
 $pub-small: 0.88em;
 
 .pub-entry {
@@ -13,7 +14,7 @@ $pub-small: 0.88em;
 
 .pub-title {
   display: block;
-  font-size: 1.05em;
+  font-size: 0.98em;
   font-weight: 600;
   color: $text-color;
   text-decoration: none;
@@ -33,7 +34,7 @@ $pub-small: 0.88em;
 
   strong {
     font-weight: 600;
-    color: $text-color;
+    color: inherit;
   }
 }
 
@@ -132,12 +133,12 @@ $pub-small: 0.88em;
 
   strong {
     font-weight: 400;
-    color: $text-color;
+    color: inherit;
   }
 }
 
 .pub-award-badge {
-  color: #9a6700;
+  color: $primary-color;
   font-weight: 600;
 
   &::before {
@@ -183,8 +184,7 @@ $pub-small: 0.88em;
 .teach-list {
   list-style: none;
   margin: 0 0 2em;
-  padding-left: 1.5em;
-  border-left: 2px solid #1a9e6b;
+  padding-left: 0;
 }
 
 .teach-item {
@@ -192,26 +192,13 @@ $pub-small: 0.88em;
   display: flex;
   gap: 1em;
   align-items: baseline;
-  margin-bottom: 0.6em;
+  margin: 0 -0.7em 0.6em;
   padding: 0.55em 0.7em;
   border-radius: 6px;
   transition: background 0.15s ease;
 
   &:hover {
     background: #f4fbf8;
-  }
-
-  &::before {
-    content: '';
-    position: absolute;
-    left: -1.87em;
-    top: 1.05em;
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: #1a9e6b;
-    border: 2px solid #fff;
-    box-shadow: 0 0 0 2px #1a9e6b;
   }
 }
 
@@ -233,6 +220,7 @@ $pub-small: 0.88em;
 }
 
 .teach-title {
+  color: $primary-color;
   font-weight: 600;
   line-height: 1.4;
 }
@@ -245,7 +233,7 @@ $pub-small: 0.88em;
 }
 
 .teach-role {
-  color: $primary-color;
+  color: $text-color;
   font-weight: 600;
 }
 
