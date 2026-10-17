@@ -13,4 +13,5 @@ paperurl: https://arxiv.org/abs/2602.00056
 pdf: /publications/files/hyperdatafication.pdf
 poster: /files/posters/hyperdatafication.pdf
 poster_thumb: /images/posters/hyperdatafication.jpg
+poster_venue: 'MLSS 2026'
 ---

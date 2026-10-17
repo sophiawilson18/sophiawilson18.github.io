@@ -26,6 +26,12 @@
     <div class="pub-meta">
       {{ post.authbefore }}<strong>S. N. Wilson</strong>{{ post.authafter }}
     </div>
+    {% if post.poster_venue %}
+    <div class="pub-poster-venue">
+      Poster presented at <strong>{{ post.poster_venue }}</strong>
+      {% if post.poster_award %}<span class="pub-award-badge">🏆 {{ post.poster_award }}</span>{% endif %}
+    </div>
+    {% endif %}
     <div class="pub-card__links">
       {% if post.paperurl %}<a class="pub-link" href="{{ post.paperurl }}">Paper</a>{% endif %}
       {% if post.pdf %}<a class="pub-link" href="{{ post.pdf }}">PDF</a>{% endif %}

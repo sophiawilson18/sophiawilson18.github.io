@@ -125,6 +125,21 @@
   font-size: 0.8em;
 }
 
+.pub-poster-venue {
+  font-size: 0.85em;
+  color: #555;
+}
+
+.pub-award-badge {
+  display: inline-block;
+  margin-left: 0.3em;
+  background: #fff4d6;
+  color: #8a5a00;
+  font-weight: 600;
+  padding: 0.05em 0.5em;
+  border-radius: 4px;
+}
+
 .pub-status-badge {
   display: inline-block;
   border: 1px solid $primary-color;

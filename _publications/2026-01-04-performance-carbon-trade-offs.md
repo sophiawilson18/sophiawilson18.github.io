@@ -12,4 +12,5 @@ paperurl: https://arxiv.org/abs/2509.24517
 pdf: /publications/files/trading-carbon-for-physics.pdf
 poster: /files/posters/shearflow.pdf
 poster_thumb: /images/posters/shearflow.jpg
+poster_venue: 'ECCV 2026, LIMIT Workshop'
 ---

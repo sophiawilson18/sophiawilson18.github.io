@@ -13,4 +13,6 @@ paperurl: https://arxiv.org/abs/2602.19789
 pdf: /publications/files/data-frugality.pdf
 poster: /files/posters/datafrugality.jpg
 poster_thumb: /images/posters/datafrugality.jpg
+poster_venue: 'EEML 2026'
+poster_award: 'Best Poster Award'
 ---
