@@ -9,7 +9,7 @@ author_profile: true
 {% for s in sections %}
 {% assign parts = s | split: ":" %}
 {% assign key = parts[0] %}
-<h2 class="teach-heading">{{ parts[1] }}</h2>
+<h2>{{ parts[1] }}</h2>
 <ol class="teach-list">
   {% for item in site.data.teaching[key] %}
   <li class="teach-item">

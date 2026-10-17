@@ -14,7 +14,7 @@ $pub-small: 0.88em;
 
 .pub-title {
   display: block;
-  font-size: 0.98em;
+  font-size: 0.9em;
   font-weight: 600;
   color: $text-color;
   text-decoration: none;
@@ -69,7 +69,7 @@ $pub-small: 0.88em;
 
 .pub-card__poster {
   position: relative;
-  flex: 0 0 150px;
+  flex: 0 0 120px;
   display: block;
   border: 1px solid $border-color;
   border-radius: 6px;
@@ -138,15 +138,9 @@ $pub-small: 0.88em;
 }
 
 .pub-award-badge {
+  margin-left: 0.4em;
   color: $primary-color;
   font-weight: 600;
-
-  &::before {
-    content: "\00b7";
-    margin: 0 0.4em;
-    color: $gray;
-    font-weight: 400;
-  }
 }
 
 .pub-card__links {
@@ -173,14 +167,6 @@ $pub-small: 0.88em;
 }
 
 /* Teaching page */
-.teach-heading {
-  display: inline-block;
-  color: $primary-color;
-  border-bottom: 2px solid #1a9e6b;
-  padding-bottom: 0.15em;
-  margin-bottom: 0.8em;
-}
-
 .teach-list {
   list-style: none;
   margin: 0 0 2em;
