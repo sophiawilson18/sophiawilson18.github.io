@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate at the [SAINTS Lab](https://saintslab.github.io/) at the Department of Computer Science at the University of Copenhagen (UCPH), supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Erik Dam](https://scholar.google.com/citations?user=WCP-mBEAAAAJ&hl=en) and funded by the Independent Research Fund Denmark. My PhD work revolves around the sustainability of “hyperdatafication” in AI, which is a phenomenon describing the industrialised production and accumulation of data for developing AI models (see more in Wilson et al., FAccT, 2026). My work seeks to address this by identifying its costs, including environmental impacts, economic inequality, and social harms, specifically the working conditions experienced by data workers.
 
-**I am currently a visiting researcher at Samsung (October 2026 – March 2027), where I work on profiling resource consumption and hardware utilisation of agentic AI systems on edge devices.**
+**I am currently a visiting researcher at Samsung Semiconductor Denmark Research (October 2026 – March 2027), where I work on profiling resource consumption and hardware utilisation of agentic AI systems on edge devices.**
 
 I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCPH, where I explored physics-informed machine learning as a way to reduce energy use and carbon emissions of machine learning models. My master’s thesis was supervised by [Raghavendra Selvan](https://raghavian.github.io/) and [Jens Hesselbjerg Christensen](https://scholar.google.dk/citations?user=kFbQdMYAAAAJ&hl=en).
 
@@ -28,7 +28,7 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
 
 **2026-11** Giving a joint talk with Emil Njor on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) at the <span class="venue">Digital Tech Summit 2026</span> on 4/11. 
 
-**2026-10** Giving a talk on [Hyper-datafication and its Environmental, Social, and Economic Costs](https://www.zem-brandenburg.de/veranstaltungen/hyper-datafication-and-its-environmental-social-and-economic-costs-von-sophia-n-wilson/) at the <span class="venue">Brandenburgisches Zentrum für Medienwissenschaften</span>, Potsdam, Germany, on 22/10. 
+
 
 
 </div>
@@ -37,6 +37,8 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
 ## Recent Activities 
 
 <div class="timeline" markdown="1">
+
+**2026-10** Invited talk on [Hyper-datafication and its Environmental, Social, and Economic Costs](https://www.zem-brandenburg.de/veranstaltungen/hyper-datafication-and-its-environmental-social-and-economic-costs-von-sophia-n-wilson/) at the <span class="venue">Brandenburgisches Zentrum für Medienwissenschaften</span>, Potsdam, Germany. 
 
 **2026-10** Attended the [AAAI/ACM Conference on AI, Ethics, and Society](https://www.aies-conference.com/2026/) in Malmö, Sweden, sat on the **Responsible AI Student Panel**, and presented ongoing work on egocentric data collection and annotation. 
 
