@@ -47,7 +47,7 @@ AI for Sustainable Energy Planning Workshop, <span class="venue">Aalborg Univers
 
 **2026-10** Attended [D3A 4.0](https://d3aconference.dk/) in Nyborg, Denmark, and won the **Jury's Best Poster Award**! Also, co-organised the Deep Dive Workshop on [Resource-Aware & Constrained AI](https://d3aconference.dk/resource-aware-constrained-ai/) at <span class="venue">D3A 2026</span>. 
 
-**2026-09** Presented a webinar on [Assessing Sustainability of AI](https://indico.cern.ch/event/1689368/) at the <span class="venue">High Energy Physics Software Foundation Seminars</span>. 
+**2026-09** Presented a webinar on [Assessing and Mitigating Sustainability Costs of Frontier AI](https://indico.cern.ch/event/1689368/) at the <span class="venue">High Energy Physics Software Foundation Seminars</span>. 
 
 **2026-09** Interviewed by journalist Mette Holdbæk in the podcast [Verden Forsøgt Forklaret](https://open.spotify.com/episode/7wsAAKJJaPAr6avWYEUfF3?si=dee33aab14d1460b) about AI data workers, their working conditions, and hyper-datafication more broadly. 
 
