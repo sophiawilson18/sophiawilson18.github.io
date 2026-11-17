@@ -23,10 +23,10 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
 
 <div class="timeline" markdown="1">
 
+**2026-11** Giving a talk on **Skyggesider af kunstig intelligens** at the annual meeting for The Association of Development Researchers in Denmark (FAU), <span class="venue">Copenhagen Business School</span>, on 30/11. 
 
-**2026-11** Giving a talk on [AI - det koster på klimaet](https://www.hk.dk/aktuelt/kalender/D2292277026?_gl=1*uf0a5t*_up*MQ..*_ga*OTU5MDIzODk0LjE3OTE4OTY0MDI.*_ga_G0Z0D516FR*czE3OTE4OTY0MDEkbzEkZzAkdDE3OTE4OTY0MDEkajYwJGwwJGgw) at the <span class="venue">HK TechWeek 2026</span> on 17/11. 
-
-
+**2026-11** Giving a talk on **Assessing the Sustainability of AI: Current Challenges and Paths Forward** at the 
+AI for Sustainable Energy Planning Workshop, <span class="venue">Aalborg University</span>, on 26/11. 
 
 </div>
 
@@ -34,6 +34,10 @@ I hold an MSc degree in Computational Physics from the Niels Bohr Institute, UCP
 ## Recent Activities 
 
 <div class="timeline" markdown="1">
+
+
+**2026-11** Gave a talk on [AI: det koster på klimaet](https://www.hk.dk/aktuelt/kalender/D2292277026?_gl=1*uf0a5t*_up*MQ..*_ga*OTU5MDIzODk0LjE3OTE4OTY0MDI.*_ga_G0Z0D516FR*czE3OTE4OTY0MDEkbzEkZzAkdDE3OTE4OTY0MDEkajYwJGwwJGgw) at the <span class="venue">HK TechWeek 2026</span>. 
+
 
 **2026-11** Gave a joint talk with Emil Njor on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) at the <span class="venue">Digital Tech Summit 2026</span>. 
 
