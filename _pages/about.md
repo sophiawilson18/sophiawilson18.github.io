@@ -35,9 +35,9 @@ AI for Sustainable Energy Planning Workshop, <span class="venue">Aalborg Univers
 
 <div class="timeline" markdown="1">
 
+**2026-11** Interview in [INDSIGT podcast](https://open.spotify.com/episode/2Xt5zhaWNVDi5pfW5qofnF?si=b376e987cb144dc0) on hyper-datafication and egocentric data collection out!  
 
 **2026-11** Gave a talk on [AI: det koster på klimaet](https://www.hk.dk/aktuelt/kalender/D2292277026?_gl=1*uf0a5t*_up*MQ..*_ga*OTU5MDIzODk0LjE3OTE4OTY0MDI.*_ga_G0Z0D516FR*czE3OTE4OTY0MDEkbzEkZzAkdDE3OTE4OTY0MDEkajYwJGwwJGgw) at the <span class="venue">HK TechWeek 2026</span>. 
-
 
 **2026-11** Gave a joint talk with Emil Njor on [Reducing Resource Costs of Frontier AI by Identifying and Managing AI-Waste](https://event.ing.dk/dts6/session/4412810/reducing-resource-costs-of-frontier-ai-by-identifying-and-managing-ai-waste-green-ai) at the <span class="venue">Digital Tech Summit 2026</span>. 
 
